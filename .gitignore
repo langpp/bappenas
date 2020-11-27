@@ -1,0 +1,14 @@
+### This is the content of your .gitignore file
+### -------------------------------------------
+
+# Ignore All (xlsx) files
+*.xlsx
+*.csv
+
+# DO-NOT ignore specific file
+!DBB/Tool CEIC/allwilayah.xlsx
+!DBB/Tool IMM/news.csv
+!DBB/Tool IMM/news_influencer.csv
+!DBB/Tool IMM/news_person.csv
+!DBB/Tool PIHPS/ref_kabkot.xlsx
+!DBB/Tool PIHPS/ref_traditional_poi.xlsx
