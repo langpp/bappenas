@@ -1,0 +1,1 @@
+python crawler.py -f -u "file:webdir.txt" -e "pdf docx xlsx pptx doc xls ppt" -d "output"
