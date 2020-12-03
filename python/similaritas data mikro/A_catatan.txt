@@ -1,7 +1,0 @@
-input data:
-- 1 excel = 1 tahun
-- pada kolom diatas yaitu variable, listed jadi nilainya
-
-output data:
-1 F2 = 1 listed
-

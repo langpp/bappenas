@@ -108,7 +108,7 @@ def transpose_wilayah(Fdata, Flayoutpath):
     
     
     
-    #ACTION = A bergabung di B
+    #ACTION = bergabung
     
     Fdatavaluecols = ['sum(Fdata.' + s + ') AS ' + s for s in valuecols]
     
@@ -143,6 +143,27 @@ def transpose_wilayah(Fdata, Flayoutpath):
     if len(Ftmp.index) > 0:
         Ftransposed = Ftransposed.append(Ftmp, ignore_index=True)
     
+    #ACTION = newB
+    
+    Ftmp = sqldf('''
+        SELECT
+            '' || Flayoutpath.PROVCODE_B || Flayoutpath.KOTCODE_B || substr('000' || Flayoutpath.KECCODE_B, -3, 3) || substr('000' || Flayoutpath.KELCODE_B, -3, 3) AS IDDESA,
+            Flayoutpath.PROVCODE_B AS KODE_PROV,
+            Flayoutpath.PROVNAME_B AS NAMA_PROV,
+            Flayoutpath.KOTCODE_B AS KODE_KAB,
+            Flayoutpath.KOTNAME_B AS NAMA_KAB,
+            Flayoutpath.KECCODE_B AS KODE_KEC,
+            Flayoutpath.KECNAME_B AS NAMA_KEC,
+            Flayoutpath.KELCODE_B AS KODE_DESA,
+            Flayoutpath.KELNAME_B AS NAMA_DESA
+        FROM
+            Flayoutpath
+        WHERE
+            Flayoutpath.ACTION = "newB"
+    ''')
+    
+    if len(Ftmp.index) > 0:
+        Ftransposed = Ftransposed.append(Ftmp, ignore_index=True)
     
     return Ftransposed
     
@@ -322,7 +343,20 @@ def transpose_kategori(Fdata, Flayoutpath):
     if len(Fdata_match_v_to_v2.index) > 0:
         Ftransposed = Ftransposed.append(Fdata_match_v_to_v2, ignore_index=True)
     
+    ##########################################################
+    ##########################################################
     
+    #ACTION = newB
+    
+    Flayoutpath_match = sqldf('''
+        SELECT CODE_B as kategori FROM Flayoutpath WHERE ACTION = 'newB'
+    ''')
+    
+    if len(Flayoutpath_match.index) > 0:
+        Ftransposed = Ftransposed.append(Flayoutpath_match, ignore_index=True)
+    
+    ##########################################################
+    ##########################################################
     
     
     Ftransposed.set_index('kategori', inplace=True)
