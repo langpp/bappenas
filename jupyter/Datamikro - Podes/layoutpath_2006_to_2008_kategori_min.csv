@@ -1,0 +1,1173 @@
+CODE_A,TITLE_A,SUBCODE_A,SUBTITLE_A,CODE_B,TITLE_B,SUBCODE_B,SUBTITLE_B,ACTION
+A101,Provinsi,-,-,R101,Provinsi,-,-,match
+A101N,Nama provinsi,-,-,R101N,Nama provinsi,-,-,match
+A102,Kabupaten/Kota,-,-,R102,Kabupaten/Kota,-,-,match
+A102N,Nama kabupaten/kota,-,-,R102N,Nama kabupaten/kota,-,-,match
+A103,Kecamatan,-,-,R103,Kecamatan,-,-,match
+A103N,Nama kecamatan,-,-,R103N,Nama kecamatan,-,-,match
+A104,Desa/Kelurahan/Nagari,-,-,R104,Desa/Kelurahan/Nagari,-,-,match
+A104N,Nama desa/kelurahan,-,-,R104N,Nama desa/kelurahan,-,-,match
+A301,Status Pemerintahan,1,Desa,R301,Status Pemerintahan,1,Desa,match
+A301,Status Pemerintahan,2,Kelurahan,R301,Status Pemerintahan,2,Kelurahan,match
+A302,Badan Perwakilan Desa/Dewan Kelurahan,1,Desa,R302,Badan Perwakilan Desa/Dewan Kelurahan,1,Desa,match
+A302,Badan Perwakilan Desa/Dewan Kelurahan,2,Kelurahan,R302,Badan Perwakilan Desa/Dewan Kelurahan,2,Kelurahan,match
+R3031_2,Satuan Lingkungan Terkecil 1,-,-,R3031_2,Satuan Lingkungan Terkecil 1,-,-,match
+R3031_3,Kode SLS tingkat 1,1,RT,R3031_3,Kode SLS tingkat 1,1,RT,match
+R3031_3,Kode SLS tingkat 1,2,RW/WK,R3031_3,Kode SLS tingkat 1,2,RW/WK,match
+R3031_3,Kode SLS tingkat 1,3,Jorong,R3031_3,Kode SLS tingkat 1,3,Jorong,match
+R3031_3,Kode SLS tingkat 1,4,Korong,R3031_3,Kode SLS tingkat 1,4,Korong,match
+R3031_3,Kode SLS tingkat 1,5,Kampung,R3031_3,Kode SLS tingkat 1,5,Kampung,match
+R3031_3,Kode SLS tingkat 1,6,Lingkungan,R3031_3,Kode SLS tingkat 1,6,Lingkungan,match
+R3031_3,Kode SLS tingkat 1,7,Banjar,R3031_3,Kode SLS tingkat 1,7,Banjar,match
+R3031_3,Kode SLS tingkat 1,8,Dusun,R3031_3,Kode SLS tingkat 1,8,Dusun,match
+R3031_3,Kode SLS tingkat 1,9,Lainnya,R3031_3,Kode SLS tingkat 1,9,Lainnya,match
+R3031_4,Jumlah SLS tingkat 1,-,-,R3031_4,Jumlah SLS tingkat 1,-,-,match
+R3032_2,Satuan Lingkungan Terkecil 2,-,-,R3032_2,Satuan Lingkungan Terkecil 2,-,-,match
+R3032_3,Kode SLS tingkat 2,1,RT,R3032_3,Kode SLS tingkat 2,1,RT,match
+R3032_3,Kode SLS tingkat 2,2,RW/WK,R3032_3,Kode SLS tingkat 2,2,RW/WK,match
+R3032_3,Kode SLS tingkat 2,3,Jorong,R3032_3,Kode SLS tingkat 2,3,Jorong,match
+R3032_3,Kode SLS tingkat 2,4,Korong,R3032_3,Kode SLS tingkat 2,4,Korong,match
+R3032_3,Kode SLS tingkat 2,5,Kampung,R3032_3,Kode SLS tingkat 2,5,Kampung,match
+R3032_3,Kode SLS tingkat 2,6,Lingkungan,R3032_3,Kode SLS tingkat 2,6,Lingkungan,match
+R3032_3,Kode SLS tingkat 2,7,Banjar,R3032_3,Kode SLS tingkat 2,7,Banjar,match
+R3032_3,Kode SLS tingkat 2,8,Dusun,R3032_3,Kode SLS tingkat 2,8,Dusun,match
+R3032_3,Kode SLS tingkat 2,9,Lainnya,R3032_3,Kode SLS tingkat 2,9,Lainnya,match
+R3032_4,Jumlah SLS tingkat 2,-,-,R3032_4,Jumlah SLS tingkat 2,-,-,match
+R3033_2,Satuan Lingkungan terkecil 3,-,-,R3033_2,Satuan Lingkungan terkecil 3,-,-,match
+R3033_3,Kode SLS tingkat 3,1,RT,R3033_3,Kode SLS tingkat 3,1,RT,match
+R3033_3,Kode SLS tingkat 3,2,RW/WK,R3033_3,Kode SLS tingkat 3,2,RW/WK,match
+R3033_3,Kode SLS tingkat 3,3,Jorong,R3033_3,Kode SLS tingkat 3,3,Jorong,match
+R3033_3,Kode SLS tingkat 3,4,Korong,R3033_3,Kode SLS tingkat 3,4,Korong,match
+R3033_3,Kode SLS tingkat 3,5,Kampung,R3033_3,Kode SLS tingkat 3,5,Kampung,match
+R3033_3,Kode SLS tingkat 3,6,Lingkungan,R3033_3,Kode SLS tingkat 3,6,Lingkungan,match
+R3033_3,Kode SLS tingkat 3,7,Banjar,R3033_3,Kode SLS tingkat 3,7,Banjar,match
+R3033_3,Kode SLS tingkat 3,8,Dusun,R3033_3,Kode SLS tingkat 3,8,Dusun,match
+R3033_3,Kode SLS tingkat 3,9,Lainnya,R3033_3,Kode SLS tingkat 3,9,Lainnya,match
+R3033_4,Jumlah SLS tingkat 3,-,-,R3033_4,Jumlah SLS tingkat 3,-,-,match
+R3034_2,Satuan Lingkungan Terkecil 4,-,-,R3034_2,Satuan Lingkungan Terkecil 4,-,-,match
+R3034_3,Kode SLS tingkat 4,1,RT,R3034_3,Kode SLS tingkat 4,1,RT,match
+R3034_3,Kode SLS tingkat 4,2,RW/WK,R3034_3,Kode SLS tingkat 4,2,RW/WK,match
+R3034_3,Kode SLS tingkat 4,3,Jorong,R3034_3,Kode SLS tingkat 4,3,Jorong,match
+R3034_3,Kode SLS tingkat 4,4,Korong,R3034_3,Kode SLS tingkat 4,4,Korong,match
+R3034_3,Kode SLS tingkat 4,5,Kampung,R3034_3,Kode SLS tingkat 4,5,Kampung,match
+R3034_3,Kode SLS tingkat 4,6,Lingkungan,R3034_3,Kode SLS tingkat 4,6,Lingkungan,match
+R3034_3,Kode SLS tingkat 4,7,Banjar,R3034_3,Kode SLS tingkat 4,7,Banjar,match
+R3034_3,Kode SLS tingkat 4,8,Dusun,R3034_3,Kode SLS tingkat 4,8,Dusun,match
+R3034_3,Kode SLS tingkat 4,9,Lainnya,R3034_3,Kode SLS tingkat 4,9,Lainnya,match
+R3034_4,Jumlah SLS tingkat 4,-,-,R3034_4,Jumlah SLS tingkat 4,-,-,match
+R304A,Letak geografis desa/kelurahan,1,Pesisir/pantai,R304A,Letak geografis desa/kelurahan,1,Pesisir/pantai,match
+R304A,Letak geografis desa/kelurahan,2,Bukan pesisir,R304A,Letak geografis desa/kelurahan,2,Bukan pesisir,match
+R304B,Panjang pantai,1,< 1 km,R304B,Panjang pantai,1,< 1 km,match
+R304B,Panjang pantai,2,1-5 km > 5 km,R304B,Panjang pantai,2,1-5 km > 5 km,match
+R304C,Topografi wilayah,1,Lembah/daerah aliran sungai,R304C,Topografi wilayah,1,Lembah/daerah aliran sungai,match
+R304C,Topografi wilayah,2,Lereng/punggung,R304C,Topografi wilayah,2,Lereng/punggung,match
+R304C,Topografi wilayah,3,Dataran,R304C,Topografi wilayah,3,Dataran,match
+R304D,Ketinggian dari permukaan laut,-,-,R304D,Ketinggian dari permukaan laut,-,-,match
+R305,Wilayah desa/kelurahan ini berada,1,Di dalam kawasan hutan,R305,Wilayah desa/kelurahan ini berada,1,Di dalam kawasan hutan,match
+R305,Wilayah desa/kelurahan ini berada,2,Di tepi/sekitar kawasan hutan,R305,Wilayah desa/kelurahan ini berada,2,Di tepi/sekitar kawasan hutan,match
+R305,Wilayah desa/kelurahan ini berada,3,Di luar kawasan hutan,R305,Wilayah desa/kelurahan ini berada,3,Di luar kawasan hutan,match
+R401A,Jumlah penduduk laki-laki,-,-,R401A,Jumlah penduduk laki-laki,-,-,match
+R401B,Jumlah penduduk perempuan,-,-,R401B,Jumlah penduduk perempuan,-,-,match
+R401C,Jumlah keluarga,-,-,R401C,Jumlah keluarga,-,-,match
+R401D,Persentase keluarga pertanian,-,-,R401D,Persentase keluarga pertanian,-,-,match
+R401E,Jumlah keluarga yang anggotanya menjadi buruh tani,-,-,R401E,Jumlah keluarga yang anggotanya menjadi buruh tani,-,-,match
+R402,Sumber penghasilan utama penduduk,1,Pertanian,R402,Sumber penghasilan utama penduduk,1,Pertanian,match
+R402,Sumber penghasilan utama penduduk,2,Pertambangan dan penggalian,R402,Sumber penghasilan utama penduduk,2,Pertambangan dan penggalian,match
+R402,Sumber penghasilan utama penduduk,3,Industri pengolahan;,R402,Sumber penghasilan utama penduduk,3,Industri pengolahan;,match
+R402,Sumber penghasilan utama penduduk,4,"Perdagangan besar/Eceran, rumah makan;",R402,Sumber penghasilan utama penduduk,4,"Perdagangan besar/Eceran, rumah makan;",match
+R402,Sumber penghasilan utama penduduk,5,"Angkutan, pergudangan, komunikasi;",R402,Sumber penghasilan utama penduduk,5,"Angkutan, pergudangan, komunikasi;",match
+R402,Sumber penghasilan utama penduduk,6,Jasa;,R402,Sumber penghasilan utama penduduk,6,Jasa;,match
+R402,Sumber penghasilan utama penduduk,7,Lainnya,R402,Sumber penghasilan utama penduduk,7,Lainnya,match
+R403,Komoditi sumber penghasilan utama penduduk,1,Padi,R403,Komoditi sumber penghasilan utama penduduk,1,Padi,match
+R403,Komoditi sumber penghasilan utama penduduk,2,Palawijaya,R403,Komoditi sumber penghasilan utama penduduk,2,Palawijaya,match
+R403,Komoditi sumber penghasilan utama penduduk,3,Hortikultura;,R403,Komoditi sumber penghasilan utama penduduk,3,Hortikultura;,match
+R403,Komoditi sumber penghasilan utama penduduk,4,Karet;,R403,Komoditi sumber penghasilan utama penduduk,4,Karet;,match
+R403,Komoditi sumber penghasilan utama penduduk,5,Kelapa sawit;,R403,Komoditi sumber penghasilan utama penduduk,5,Kelapa sawit;,match
+R403,Komoditi sumber penghasilan utama penduduk,6,Kopi;,R403,Komoditi sumber penghasilan utama penduduk,6,Kopi;,match
+R403,Komoditi sumber penghasilan utama penduduk,7,Kakao;,R403,Komoditi sumber penghasilan utama penduduk,7,Kakao;,match
+R403,Komoditi sumber penghasilan utama penduduk,8,Kelapa;,R403,Komoditi sumber penghasilan utama penduduk,8,Kelapa;,match
+R403,Komoditi sumber penghasilan utama penduduk,9,Lada;,R403,Komoditi sumber penghasilan utama penduduk,9,Lada;,match
+R403,Komoditi sumber penghasilan utama penduduk,10,Cengkeh,R403,Komoditi sumber penghasilan utama penduduk,10,Cengkeh,match
+R403,Komoditi sumber penghasilan utama penduduk,11,Tembakau,R403,Komoditi sumber penghasilan utama penduduk,11,Tembakau,match
+R403,Komoditi sumber penghasilan utama penduduk,12,Peternakan,R403,Komoditi sumber penghasilan utama penduduk,12,Peternakan,match
+R403,Komoditi sumber penghasilan utama penduduk,13,Perikanan tangkap,R403,Komoditi sumber penghasilan utama penduduk,13,Perikanan tangkap,match
+R403,Komoditi sumber penghasilan utama penduduk,14,Perikanan budidaya,R403,Komoditi sumber penghasilan utama penduduk,14,Perikanan budidaya,match
+R403,Komoditi sumber penghasilan utama penduduk,15,Kehutanan,R403,Komoditi sumber penghasilan utama penduduk,15,Kehutanan,match
+R403,Komoditi sumber penghasilan utama penduduk,16,Lainnya,R403,Komoditi sumber penghasilan utama penduduk,16,Lainnya,match
+R404A,Penduduk yang sedang bekerja sebagai TKI di luar negeri,1,Ada,R404A,Penduduk yang sedang bekerja sebagai TKI di luar negeri,1,Ada,match
+R404A,Penduduk yang sedang bekerja sebagai TKI di luar negeri,2,Tidak,R404A,Penduduk yang sedang bekerja sebagai TKI di luar negeri,2,Tidak,match
+R404B,Jumlah TKI,-,-,R404B,Jumlah TKI,-,-,match
+R501A,Keluarga pengguna listrik,-,-,R501A,Keluarga pengguna listrik,-,-,match
+R501B1,Jumlah keluarga pengguna listrik PLN,-,-,R501B1,Jumlah keluarga pengguna listrik PLN,-,-,match
+R501B2,Jumlah keluarga pengguna listrik Non-PLN,-,-,R501B2,Jumlah keluarga pengguna listrik Non-PLN,-,-,match
+R502A,Penerangan jalan utama desa/kelurahan,1,Ada,R502A,Penerangan jalan utama desa/kelurahan,1,Ada,match
+R502A,Penerangan jalan utama desa/kelurahan,2,Tidak,R502A,Penerangan jalan utama desa/kelurahan,2,Tidak,match
+R502B,Jenis penerangan,1,Listrik diusahakan oleh pemerintah,R502B,Jenis penerangan,1,Listrik diusahakan oleh pemerintah,match
+R502B,Jenis penerangan,2,Listrik nonpemerintah,R502B,Jenis penerangan,2,Listrik nonpemerintah,match
+R502B,Jenis penerangan,3,Nonlistrik,R502B,Jenis penerangan,3,Nonlistrik,match
+R503,Bahan bakar untuk memasak,1,Gas kota/LPG,R503,Bahan bakar untuk memasak,1,Gas kota/LPG,match
+R503,Bahan bakar untuk memasak,2,Minyak tanah,R503,Bahan bakar untuk memasak,2,Minyak tanah,match
+R503,Bahan bakar untuk memasak,3,Kayu bakar,R503,Bahan bakar untuk memasak,3,Kayu bakar,match
+R503,Bahan bakar untuk memasak,4,"Lainnya (batubara, arang, dll)",R503,Bahan bakar untuk memasak,4,"Lainnya (batubara, arang, dll)",match
+R504A,Tempat buang sampah penduduk,1,"Tempat sampah, kemudian diangkut",R504A,Tempat buang sampah penduduk,1,"Tempat sampah, kemudian diangkut",match
+R504A,Tempat buang sampah penduduk,2,Dalam lubang/dibakar,R504A,Tempat buang sampah penduduk,2,Dalam lubang/dibakar,match
+R504A,Tempat buang sampah penduduk,4,Sungai,R504A,Tempat buang sampah penduduk,4,Sungai,match
+R504A,Tempat buang sampah penduduk,8,Lainnya,R504A,Tempat buang sampah penduduk,8,Lainnya,match
+R504B,Sebagian besar penduduk membuang sampah ke,1,"Tempat sampah, kemudian diangkut",R504B,Sebagian besar penduduk membuang sampah ke,1,"Tempat sampah, kemudian diangkut",match
+R504B,Sebagian besar penduduk membuang sampah ke,2,Dalam lubang/dibakar,R504B,Sebagian besar penduduk membuang sampah ke,2,Dalam lubang/dibakar,match
+R504B,Sebagian besar penduduk membuang sampah ke,4,Sungai,R504B,Sebagian besar penduduk membuang sampah ke,4,Sungai,match
+R504B,Sebagian besar penduduk membuang sampah ke,8,Lainnya,R504B,Sebagian besar penduduk membuang sampah ke,8,Lainnya,match
+R504C,Tempat Penampungan Sampah Sememtara di Desa/Kelurahan,1,Ada,R504C,Tempat Penampungan Sampah Sememtara di Desa/Kelurahan,1,Ada,match
+R504C,Tempat Penampungan Sampah Sememtara di Desa/Kelurahan,2,Tidak,R504C,Tempat Penampungan Sampah Sememtara di Desa/Kelurahan,2,Tidak,match
+R505,Tempat BAB keluarga,1,Jamban sendiri,R505,Tempat BAB keluarga,1,Jamban sendiri,match
+R505,Tempat BAB keluarga,2,Jamban bersama,R505,Tempat BAB keluarga,2,Jamban bersama,match
+R505,Tempat BAB keluarga,3,Jamban umum,R505,Tempat BAB keluarga,3,Jamban umum,match
+R505,Tempat BAB keluarga,4,Bukan jamban,R505,Tempat BAB keluarga,4,Bukan jamban,match
+R506A,Sungai yang melintasi desa/kelurahan ini,1,Ada,R506A,Sungai yang melintasi desa/kelurahan ini,1,Ada,match
+R506A,Sungai yang melintasi desa/kelurahan ini,2,Tidak,R506A,Sungai yang melintasi desa/kelurahan ini,2,Tidak,match
+R506B1,Mandi/cuci,1,Ya,R506B1,Mandi/cuci,1,Ya,match
+R506B1,Mandi/cuci,2,Tidak,R506B1,Mandi/cuci,2,Tidak,match
+R506B2,Minum,1,Ya,R506B2,Minum,1,Ya,match
+R506B2,Minum,2,Tidak,R506B2,Minum,2,Tidak,match
+R506B3,Bahan baku air minum,1,Ya,R506B3,Bahan baku air minum,1,Ya,match
+R506B3,Bahan baku air minum,2,Tidak,R506B3,Bahan baku air minum,2,Tidak,match
+R506B4,Irigasi,1,Ya,R506B4,Irigasi,1,Ya,match
+R506B4,Irigasi,2,Tidak,R506B4,Irigasi,2,Tidak,match
+R506B5,Untuk industri/pabrik,1,Ya,R506B5,Untuk industri/pabrik,1,Ya,match
+R506B5,Untuk industri/pabrik,2,Tidak,R506B5,Untuk industri/pabrik,2,Tidak,match
+R506B6,Transportasi,1,Ya,R506B6,Transportasi,1,Ya,match
+R506B6,Transportasi,2,Tidak,R506B6,Transportasi,2,Tidak,match
+R506B7,Lainnya,1,Ya,R506B7,Lainnya,1,Ya,match
+R506B7,Lainnya,2,Tidak,R506B7,Lainnya,2,Tidak,match
+R507A,Keluarga yang bertempat tinggal di bantaran/tepi sungai,1,Ya,R507A,Keluarga yang bertempat tinggal di bantaran/tepi sungai,1,Ya,match
+R507A,Keluarga yang bertempat tinggal di bantaran/tepi sungai,2,Tidak,R507A,Keluarga yang bertempat tinggal di bantaran/tepi sungai,2,Tidak,match
+R507B1,"Jika ada, jumlah keluarga",-,-,R507B1,"Jika ada, jumlah keluarga",-,-,match
+R507B2,"Jika ada, jumlah bangunan rumah",-,-,R507B2,"Jika ada, jumlah bangunan rumah",-,-,match
+R508A,Keluarga bertempat tinggal di bawah jaringan listrik tegangan tinggi,1,Ada,R508A,Keluarga bertempat tinggal di bawah jaringan listrik tegangan tinggi,1,Ada,match
+R508A,Keluarga bertempat tinggal di bawah jaringan listrik tegangan tinggi,2,Tidak,R508A,Keluarga bertempat tinggal di bawah jaringan listrik tegangan tinggi,2,Tidak,match
+R508A,Keluarga bertempat tinggal di bawah jaringan listrik tegangan tinggi,3,Tidak ada listrik tegangan tinggi,R508A,Keluarga bertempat tinggal di bawah jaringan listrik tegangan tinggi,3,Tidak ada listrik tegangan tinggi,match
+R508B1,"Jika ada, jumlah keluarga",-,-,R508B1,"Jika ada, jumlah keluarga",-,-,match
+R508B2,"Jika ada, jumlah bangunan rumah",-,-,R508B2,"Jika ada, jumlah bangunan rumah",-,-,match
+R509A,Permukiman kumuh,1,Ada,R509A,Permukiman kumuh,1,Ada,match
+R509A,Permukiman kumuh,2,Tidak,R509A,Permukiman kumuh,2,Tidak,match
+R509B1,"Jika ada, jumlah lokasi",-,-,R509B1,"Jika ada, jumlah lokasi",-,-,match
+R509B2,"Jika ada, jumlah bangunan rumah",-,-,R509B2,"Jika ada, jumlah bangunan rumah",-,-,match
+R509B3,"Jika ada, jumlah keluarga",-,-,R509B3,"Jika ada, jumlah keluarga",-,-,match
+R510A_2,Jenis pencemaran : a. Air,1,Ada,R510A_2,Jenis pencemaran : a. Air,1,Ada,match
+R510A_2,Jenis pencemaran : a. Air,2,Tidak,R510A_2,Jenis pencemaran : a. Air,2,Tidak,match
+R510A_31,Sumber pencemaran urama : a. Air,1,Limbah keluarga,R510A_31,Sumber pencemaran urama : a. Air,1,Limbah keluarga,match
+R510A_31,Sumber pencemaran urama : a. Air,2,Limbah plastik,R510A_31,Sumber pencemaran urama : a. Air,2,Limbah plastik,match
+R510A_31,Sumber pencemaran urama : a. Air,3,Limbah lainnya,R510A_31,Sumber pencemaran urama : a. Air,3,Limbah lainnya,match
+R510A_32,Pencemaran Air  lainnya,1,Ada,R510A_32,Pencemaran Air  lainnya,1,Ada,match
+R510A_32,Pencemaran Air  lainnya,2,Tidak,R510A_32,Pencemaran Air  lainnya,2,Tidak,match
+R510A_4,Pengaduan ke Kades/Lurah : a. Air,1,Ada,R510A_4,Pengaduan ke Kades/Lurah : a. Air,1,Ada,match
+R510A_4,Pengaduan ke Kades/Lurah : a. Air,2,Tidak,R510A_4,Pengaduan ke Kades/Lurah : a. Air,2,Tidak,match
+R510B_2,Jenis pencemaran : b. Tanah,1,Limbah keluarga,R510B_2,Jenis pencemaran : b. Tanah,1,Limbah keluarga,match
+R510B_2,Jenis pencemaran : b. Tanah,2,Limbah plastik,R510B_2,Jenis pencemaran : b. Tanah,2,Limbah plastik,match
+R510B_2,Jenis pencemaran : b. Tanah,3,Limbah lainnya,R510B_2,Jenis pencemaran : b. Tanah,3,Limbah lainnya,match
+R510B_31,Sumber pencemaran utama : b. Tanah,1,Ada,R510B_31,Sumber pencemaran utama : b. Tanah,1,Ada,match
+R510B_31,Sumber pencemaran utama : b. Tanah,2,Tidak,R510B_31,Sumber pencemaran utama : b. Tanah,2,Tidak,match
+R510B_32,Pencemaran Tanah lainnya,1,Ada,R510B_32,Pencemaran Tanah lainnya,1,Ada,match
+R510B_32,Pencemaran Tanah lainnya,2,Tidak,R510B_32,Pencemaran Tanah lainnya,2,Tidak,match
+R510B_4,Pengaduan ke Kades/Lurah : b. Tanah,1,Limbah keluarga,R510B_4,Pengaduan ke Kades/Lurah : b. Tanah,1,Limbah keluarga,match
+R510B_4,Pengaduan ke Kades/Lurah : b. Tanah,2,Limbah plastik,R510B_4,Pengaduan ke Kades/Lurah : b. Tanah,2,Limbah plastik,match
+R510B_4,Pengaduan ke Kades/Lurah : b. Tanah,3,Limbah lainnya,R510B_4,Pengaduan ke Kades/Lurah : b. Tanah,3,Limbah lainnya,match
+R510C_2,Jenis pencemaran : c. Udara,1,Ada,R510C_2,Jenis pencemaran : c. Udara,1,Ada,match
+R510C_2,Jenis pencemaran : c. Udara,2,Tidak,R510C_2,Jenis pencemaran : c. Udara,2,Tidak,match
+R510C_31,Sumber pencemaran urama : c. Udara,1,Ada,R510C_31,Sumber pencemaran urama : c. Udara,1,Ada,match
+R510C_31,Sumber pencemaran urama : c. Udara,2,Tidak,R510C_31,Sumber pencemaran urama : c. Udara,2,Tidak,match
+R510C_32,Pencemaran Udara Lainnya,1,Limbah keluarga,R510C_32,Pencemaran Udara Lainnya,1,Limbah keluarga,match
+R510C_32,Pencemaran Udara Lainnya,2,Limbah plastik,R510C_32,Pencemaran Udara Lainnya,2,Limbah plastik,match
+R510C_32,Pencemaran Udara Lainnya,3,Limbah lainnya,R510C_32,Pencemaran Udara Lainnya,3,Limbah lainnya,match
+R510C_4,Pengaduan ke Kades/Lurah : c. Udara,1,Ada,R510C_4,Pengaduan ke Kades/Lurah : c. Udara,1,Ada,match
+R510C_4,Pengaduan ke Kades/Lurah : c. Udara,2,Tidak,R510C_4,Pengaduan ke Kades/Lurah : c. Udara,2,Tidak,match
+R510D_2,Jenis pencemaran : d. Suara/Bising,-,-,R510D_2,Jenis pencemaran : d. Suara/Bising,-,-,match
+R510D_31,Sumber pencemaran urama : d. Suara/Bising,-,-,R510D_31,Sumber pencemaran urama : d. Suara/Bising,-,-,match
+R510D_32,Pencemaran Suara/Bising Lainnya,-,-,R510D_32,Pencemaran Suara/Bising Lainnya,-,-,match
+R510D_4,Pengaduan ke Kades/Lurah : d. Suara/Bising,-,-,R510D_4,Pengaduan ke Kades/Lurah : d. Suara/Bising,-,-,match
+R511A,Pembakaran ladang/kebun dalam setahun terakhir,1,Ada,R511A,Pembakaran ladang/kebun dalam setahun terakhir,1,Ada,match
+R511A,Pembakaran ladang/kebun dalam setahun terakhir,2,Tidak,R511A,Pembakaran ladang/kebun dalam setahun terakhir,2,Tidak,match
+R511B,"Jika ada, luas lahan yang dibakar",-,-,R511B,"Jika ada, luas lahan yang dibakar",-,-,match
+R512,Lokasi penggalian golongan C di desa/kelurahan ini,1,Ada,R512,Lokasi penggalian golongan C di desa/kelurahan ini,1,Ada,match
+R512,Lokasi penggalian golongan C di desa/kelurahan ini,2,Tidak,R512,Lokasi penggalian golongan C di desa/kelurahan ini,2,Tidak,match
+R513A_2,Jenis bencana : a. Tanah longsor,1,Ada,R513A_2,Jenis bencana : a. Tanah longsor,1,Ada,match
+R513A_2,Jenis bencana : a. Tanah longsor,2,Tidak,R513A_2,Jenis bencana : a. Tanah longsor,2,Tidak,match
+R513A_3,Banyaknya kejadian : a. Tanah longsor,-,-,R513A_3,Banyaknya kejadian : a. Tanah longsor,-,-,match
+R513A_4,Tahun puncak kejadian : a. Tanah longsor,-,-,R513A_4,Tahun puncak kejadian : a. Tanah longsor,-,-,match
+R513A_5,Korban jiwa : a. Tanah longsor,-,-,R513A_5,Korban jiwa : a. Tanah longsor,-,-,match
+R513A_6,Kerugian materi (Jutaan Rp) : a. Tanah longsor,-,-,R513A_6,Kerugian materi (Jutaan Rp) : a. Tanah longsor,-,-,match
+R513B_2,Jenis bencana : b. Banjir,1,Ada,R513B_2,Jenis bencana : b. Banjir,1,Ada,match
+R513B_2,Jenis bencana : b. Banjir,2,Tidak,R513B_2,Jenis bencana : b. Banjir,2,Tidak,match
+R513B_3,Banyaknya kejadian : b. Banjir,-,-,R513B_3,Banyaknya kejadian : b. Banjir,-,-,match
+R513B_4,Tahun puncak kejadian : b. Banjir,-,-,R513B_4,Tahun puncak kejadian : b. Banjir,-,-,match
+R513B_5,Korban jiwa : b. Banjir,-,-,R513B_5,Korban jiwa : b. Banjir,-,-,match
+R513B_6,Kerugian materi (Jutaan Rp) : b. Banjir,-,-,R513B_6,Kerugian materi (Jutaan Rp) : b. Banjir,-,-,match
+R513C_2,Jenis bencana : c. Banjir bandang,1,Ada,R513C_2,Jenis bencana : c. Banjir bandang,1,Ada,match
+R513C_2,Jenis bencana : c. Banjir bandang,2,Tidak,R513C_2,Jenis bencana : c. Banjir bandang,2,Tidak,match
+R513C_3,Banyaknya kejadian : c. Banjir bandang,-,-,R513C_3,Banyaknya kejadian : c. Banjir bandang,-,-,match
+R513C_4,Tahun puncak kejadian : c. Banjir bandang,-,-,R513C_4,Tahun puncak kejadian : c. Banjir bandang,-,-,match
+R513C_5,Korban jiwa : c. Banjir bandang,-,-,R513C_5,Korban jiwa : c. Banjir bandang,-,-,match
+R513C_6,Kerugian materi (Jutaan Rp) : c. Banjir bandang,-,-,R513C_6,Kerugian materi (Jutaan Rp) : c. Banjir bandang,-,-,match
+R513D_2,Jenis bencana : d. Gempa bumi,1,Ada,R513D_2,Jenis bencana : d. Gempa bumi,1,Ada,match
+R513D_2,Jenis bencana : d. Gempa bumi,2,Tidak,R513D_2,Jenis bencana : d. Gempa bumi,2,Tidak,match
+R513D_3,Banyaknya kejadian : d. Gempa bumi,-,-,R513D_3,Banyaknya kejadian : d. Gempa bumi,-,-,match
+R513D_4,Tahun puncak kejadian : d. Gempa bumi,-,-,R513D_4,Tahun puncak kejadian : d. Gempa bumi,-,-,match
+R513D_5,Korban jiwa : d. Gempa bumi,-,-,R513D_5,Korban jiwa : d. Gempa bumi,-,-,match
+R513D_6,Kerugian materi (Jutaan Rp) : d. Gempa bumi,-,-,R513D_6,Kerugian materi (Jutaan Rp) : d. Gempa bumi,-,-,match
+R513E_2,Jenis bencana : e. Gempa bumi disertai tsunami,1,Ada,R513E_2,Jenis bencana : e. Gempa bumi disertai tsunami,1,Ada,match
+R513E_2,Jenis bencana : e. Gempa bumi disertai tsunami,2,Tidak,R513E_2,Jenis bencana : e. Gempa bumi disertai tsunami,2,Tidak,match
+R513E_3,Banyaknya kejadian : e. Gempa bumi disertai tsunami,-,-,R513E_3,Banyaknya kejadian : e. Gempa bumi disertai tsunami,-,-,match
+R513E_4,Tahun puncak kejadian : e. Gempa bumi disertai tsunami,-,-,R513E_4,Tahun puncak kejadian : e. Gempa bumi disertai tsunami,-,-,match
+R513E_5,Korban jiwa : e. Gempa bumi disertai tsunami,-,-,R513E_5,Korban jiwa : e. Gempa bumi disertai tsunami,-,-,match
+R513E_6,Kerugian materi (Jutaan Rp) : e. Gempa bumi disertai tsunami,-,-,R513E_6,Kerugian materi (Jutaan Rp) : e. Gempa bumi disertai tsunami,-,-,match
+R513F_2,Jenis bencana : f. Gelombang pasang laut,1,Ada,R513F_2,Jenis bencana : f. Gelombang pasang laut,1,Ada,match
+R513F_2,Jenis bencana : f. Gelombang pasang laut,2,Tidak,R513F_2,Jenis bencana : f. Gelombang pasang laut,2,Tidak,match
+R513F_3,Banyaknya kejadian : f. Gelombang pasang laut,-,-,R513F_3,Banyaknya kejadian : f. Gelombang pasang laut,-,-,match
+R513F_4,Tahun puncak kejadian : f. Gelombang pasang laut,-,-,R513F_4,Tahun puncak kejadian : f. Gelombang pasang laut,-,-,match
+R513F_5,Korban jiwa : f. Gelombang pasang laut,-,-,R513F_5,Korban jiwa : f. Gelombang pasang laut,-,-,match
+R513F_6,Kerugian materi (Jutaan Rp) : f. Gelombang pasang laut,-,-,R513F_6,Kerugian materi (Jutaan Rp) : f. Gelombang pasang laut,-,-,match
+R513G_2,Jenis bencana : g. Angin puyuh/Puting beliung,1,Ada,R513G_2,Jenis bencana : g. Angin puyuh/Puting beliung,1,Ada,match
+R513G_2,Jenis bencana : g. Angin puyuh/Puting beliung,2,Tidak,R513G_2,Jenis bencana : g. Angin puyuh/Puting beliung,2,Tidak,match
+R513G_3,Banyaknya kejadian : g. Angin puyuh/Puting beliung,-,-,R513G_3,Banyaknya kejadian : g. Angin puyuh/Puting beliung,-,-,match
+R513G_4,Tahun puncak kejadian : g. Angin puyuh/Puting beliung,-,-,R513G_4,Tahun puncak kejadian : g. Angin puyuh/Puting beliung,-,-,match
+R513G_5,Korban jiwa : g. Angin puyuh/Puting beliung,-,-,R513G_5,Korban jiwa : g. Angin puyuh/Puting beliung,-,-,match
+R513G_6,Kerugian materi (Jutaan Rp) : g. Angin puyuh/Puting beliung,-,-,R513G_6,Kerugian materi (Jutaan Rp) : g. Angin puyuh/Puting beliung,-,-,match
+R513H_2,Jenis bencana : h. Gunung meletus,1,Ada,R513H_2,Jenis bencana : h. Gunung meletus,1,Ada,match
+R513H_2,Jenis bencana : h. Gunung meletus,2,Tidak,R513H_2,Jenis bencana : h. Gunung meletus,2,Tidak,match
+R513H_3,Banyaknya kejadian : h. Gunung meletus,-,-,R513H_3,Banyaknya kejadian : h. Gunung meletus,-,-,match
+R513H_4,Tahun puncak kejadian : h. Gunung meletus,-,-,R513H_4,Tahun puncak kejadian : h. Gunung meletus,-,-,match
+R513H_5,Korban jiwa : h. Gunung meletus,-,-,R513H_5,Korban jiwa : h. Gunung meletus,-,-,match
+R513H_6,Kerugian materi (Jutaan Rp) : h. Gunung meletus,-,-,R513H_6,Kerugian materi (Jutaan Rp) : h. Gunung meletus,-,-,match
+R513I_2,Jenis bencana : i. Kebakaran hutan,1,Ada,R513I_2,Jenis bencana : i. Kebakaran hutan,1,Ada,match
+R513I_2,Jenis bencana : i. Kebakaran hutan,2,Tidak,R513I_2,Jenis bencana : i. Kebakaran hutan,2,Tidak,match
+R513I_3,Banyaknya kejadian : i. Kebakaran hutan,-,-,R513I_3,Banyaknya kejadian : i. Kebakaran hutan,-,-,match
+R513I_4,Tahun puncak kejadian : i. Kebakaran hutan,-,-,R513I_4,Tahun puncak kejadian : i. Kebakaran hutan,-,-,match
+R513I_5,Korban jiwa : i. Kebakaran hutan,-,-,R513I_5,Korban jiwa : i. Kebakaran hutan,-,-,match
+R513I_6,Kerugian materi (Jutaan Rp) : i. Kebakaran hutan,-,-,R513I_6,Kerugian materi (Jutaan Rp) : i. Kebakaran hutan,-,-,match
+R51401_2,Asal bantuan : 01. Warga,1,Ada,R51401_2,Asal bantuan : 01. Warga,1,Ada,match
+R51401_2,Asal bantuan : 01. Warga,2,Tidak,R51401_2,Asal bantuan : 01. Warga,2,Tidak,match
+R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",1,Tenda darurat,R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",1,Tenda darurat,match
+R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",2,Perahu karet,R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",2,Perahu karet,match
+R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",3,Makanan/minuman,R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",3,Makanan/minuman,match
+R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",4,Sandang,R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",4,Sandang,match
+R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",5,Dapur umum,R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",5,Dapur umum,match
+R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",6,Pengobatan gratis,R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",6,Pengobatan gratis,match
+R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",7,Lainnya,R51401_3,"Jika Ada, Jenis bantuan utama : 01. Warga",7,Lainnya,match
+R51402_2,Asal bantuan : 02. Pemerintah desa/kelurahan,1,Ada,R51402_2,Asal bantuan : 02. Pemerintah desa/kelurahan,1,Ada,match
+R51402_2,Asal bantuan : 02. Pemerintah desa/kelurahan,2,Tidak,R51402_2,Asal bantuan : 02. Pemerintah desa/kelurahan,2,Tidak,match
+R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",1,Tenda darurat,R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",1,Tenda darurat,match
+R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",2,Perahu karet,R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",2,Perahu karet,match
+R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",3,Makanan/minuman,R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",3,Makanan/minuman,match
+R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",4,Sandang,R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",4,Sandang,match
+R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",5,Dapur umum,R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",5,Dapur umum,match
+R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",6,Pengobatan gratis,R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",6,Pengobatan gratis,match
+R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",7,Lainnya,R51402_3,"Jika Ada, Jenis bantuan utama : 02. Pemerintah desa/kelurahan",7,Lainnya,match
+R51403_2,Asal bantuan : 03. Pemerintah Kabupaten/kota,1,Ada,R51403_2,Asal bantuan : 03. Pemerintah Kabupaten/kota,1,Ada,match
+R51403_2,Asal bantuan : 03. Pemerintah Kabupaten/kota,2,Tidak,R51403_2,Asal bantuan : 03. Pemerintah Kabupaten/kota,2,Tidak,match
+R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",1,Tenda darurat,R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",1,Tenda darurat,match
+R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",2,Perahu karet,R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",2,Perahu karet,match
+R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",3,Makanan/minuman,R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",3,Makanan/minuman,match
+R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",4,Sandang,R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",4,Sandang,match
+R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",5,Dapur umum,R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",5,Dapur umum,match
+R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",6,Pengobatan gratis,R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",6,Pengobatan gratis,match
+R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",7,Lainnya,R51403_3,"Jika Ada, Jenis bantuan utama : 03. Pemerintah Kabupaten/kota",7,Lainnya,match
+R51404_2,Asal bantuan : 04. Pemerintah provinsi,1,Ada,R51404_2,Asal bantuan : 04. Pemerintah provinsi,1,Ada,match
+R51404_2,Asal bantuan : 04. Pemerintah provinsi,2,Tidak,R51404_2,Asal bantuan : 04. Pemerintah provinsi,2,Tidak,match
+R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",1,Tenda darurat,R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",1,Tenda darurat,match
+R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",2,Perahu karet,R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",2,Perahu karet,match
+R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",3,Makanan/minuman,R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",3,Makanan/minuman,match
+R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",4,Sandang,R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",4,Sandang,match
+R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",5,Dapur umum,R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",5,Dapur umum,match
+R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",6,Pengobatan gratis,R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",6,Pengobatan gratis,match
+R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",7,Lainnya,R51404_3,"Jika Ada, Jenis bantuan utama : 04. Pemerintah provinsi",7,Lainnya,match
+R51405_2,Asal bantuan : 05. Pemerintah pusat,1,Ada,R51405_2,Asal bantuan : 05. Pemerintah pusat,1,Ada,match
+R51405_2,Asal bantuan : 05. Pemerintah pusat,2,Tidak,R51405_2,Asal bantuan : 05. Pemerintah pusat,2,Tidak,match
+R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",1,Tenda darurat,R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",1,Tenda darurat,match
+R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",2,Perahu karet,R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",2,Perahu karet,match
+R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",3,Makanan/minuman,R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",3,Makanan/minuman,match
+R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",4,Sandang,R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",4,Sandang,match
+R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",5,Dapur umum,R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",5,Dapur umum,match
+R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",6,Pengobatan gratis,R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",6,Pengobatan gratis,match
+R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",7,Lainnya,R51405_3,"Jika Ada, Jenis bantuan utama : 05. Pemerintah pusat",7,Lainnya,match
+R51406_2,Asal bantuan : 06. Partai politik,1,Ada,R51406_2,Asal bantuan : 06. Partai politik,1,Ada,match
+R51406_2,Asal bantuan : 06. Partai politik,2,Tidak,R51406_2,Asal bantuan : 06. Partai politik,2,Tidak,match
+R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",1,Tenda darurat,R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",1,Tenda darurat,match
+R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",2,Perahu karet,R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",2,Perahu karet,match
+R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",3,Makanan/minuman,R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",3,Makanan/minuman,match
+R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",4,Sandang,R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",4,Sandang,match
+R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",5,Dapur umum,R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",5,Dapur umum,match
+R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",6,Pengobatan gratis,R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",6,Pengobatan gratis,match
+R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",7,Lainnya,R51406_3,"Jika Ada, Jenis bantuan utama : 06. Partai politik",7,Lainnya,match
+R51407_2,Asal bantuan : 07. LSM (dalam negeri),1,Ada,R51407_2,Asal bantuan : 07. LSM (dalam negeri),1,Ada,match
+R51407_2,Asal bantuan : 07. LSM (dalam negeri),2,Tidak,R51407_2,Asal bantuan : 07. LSM (dalam negeri),2,Tidak,match
+R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",1,Tenda darurat,R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",1,Tenda darurat,match
+R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",2,Perahu karet,R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",2,Perahu karet,match
+R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",3,Makanan/minuman,R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",3,Makanan/minuman,match
+R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",4,Sandang,R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",4,Sandang,match
+R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",5,Dapur umum,R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",5,Dapur umum,match
+R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",6,Pengobatan gratis,R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",6,Pengobatan gratis,match
+R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",7,Lainnya,R51407_3,"Jika Ada, Jenis bantuan utama : 07. LSM (dalam negeri)",7,Lainnya,match
+R51408_2,Asal bantuan : 08. Media Massa,1,Ada,R51408_2,Asal bantuan : 08. Media Massa,1,Ada,match
+R51408_2,Asal bantuan : 08. Media Massa,2,Tidak,R51408_2,Asal bantuan : 08. Media Massa,2,Tidak,match
+R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",1,Tenda darurat,R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",1,Tenda darurat,match
+R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",2,Perahu karet,R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",2,Perahu karet,match
+R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",3,Makanan/minuman,R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",3,Makanan/minuman,match
+R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",4,Sandang,R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",4,Sandang,match
+R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",5,Dapur umum,R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",5,Dapur umum,match
+R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",6,Pengobatan gratis,R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",6,Pengobatan gratis,match
+R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",7,Lainnya,R51408_3,"Jika Ada, Jenis bantuan utama : 08. Media Massa",7,Lainnya,match
+R51409_2,Asal bantuan : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan,1,Ada,R51409_2,Asal bantuan : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan,1,Ada,match
+R51409_2,Asal bantuan : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan,2,Tidak,R51409_2,Asal bantuan : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan,2,Tidak,match
+R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",1,Tenda darurat,R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",1,Tenda darurat,match
+R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",2,Perahu karet,R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",2,Perahu karet,match
+R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",3,Makanan/minuman,R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",3,Makanan/minuman,match
+R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",4,Sandang,R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",4,Sandang,match
+R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",5,Dapur umum,R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",5,Dapur umum,match
+R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",6,Pengobatan gratis,R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",6,Pengobatan gratis,match
+R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",7,Lainnya,R51409_3,"Jika Ada, Jenis bantuan utama : 09. Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan",7,Lainnya,match
+R51410_2,Asal bantuan : 10. Luar negeri,1,Ada,R51410_2,Asal bantuan : 10. Luar negeri,1,Ada,match
+R51410_2,Asal bantuan : 10. Luar negeri,2,Tidak,R51410_2,Asal bantuan : 10. Luar negeri,2,Tidak,match
+R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",1,Tenda darurat,R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",1,Tenda darurat,match
+R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",2,Perahu karet,R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",2,Perahu karet,match
+R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",3,Makanan/minuman,R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",3,Makanan/minuman,match
+R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",4,Sandang,R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",4,Sandang,match
+R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",5,Dapur umum,R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",5,Dapur umum,match
+R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",6,Pengobatan gratis,R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",6,Pengobatan gratis,match
+R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",7,Lainnya,R51410_3,"Jika Ada, Jenis bantuan utama : 10. Luar negeri",7,Lainnya,match
+R51411_2,Asal bantuan : 11. Lainnya,1,Ada,R51411_2,Asal bantuan : 11. Lainnya,1,Ada,match
+R51411_2,Asal bantuan : 11. Lainnya,2,Tidak,R51411_2,Asal bantuan : 11. Lainnya,2,Tidak,match
+R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",1,Tenda darurat,R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",1,Tenda darurat,match
+R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",2,Perahu karet,R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",2,Perahu karet,match
+R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",3,Makanan/minuman,R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",3,Makanan/minuman,match
+R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",4,Sandang,R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",4,Sandang,match
+R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",5,Dapur umum,R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",5,Dapur umum,match
+R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",6,Pengobatan gratis,R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",6,Pengobatan gratis,match
+R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",7,Lainnya,R51411_3,"Jika Ada, Jenis bantuan utama : 11. Lainnya",7,Lainnya,match
+R514_4,Pemberi bantuan yang paling banyak berperan,1,Warga,R514_4,Pemberi bantuan yang paling banyak berperan,1,Warga,match
+R514_4,Pemberi bantuan yang paling banyak berperan,2,Pemerintah desa/kelurahan,R514_4,Pemberi bantuan yang paling banyak berperan,2,Pemerintah desa/kelurahan,match
+R514_4,Pemberi bantuan yang paling banyak berperan,3,Pemerintah Kab/kota,R514_4,Pemberi bantuan yang paling banyak berperan,3,Pemerintah Kab/kota,match
+R514_4,Pemberi bantuan yang paling banyak berperan,4,Pemerintah provinsi,R514_4,Pemberi bantuan yang paling banyak berperan,4,Pemerintah provinsi,match
+R514_4,Pemberi bantuan yang paling banyak berperan,5,Pemerintah pusat,R514_4,Pemberi bantuan yang paling banyak berperan,5,Pemerintah pusat,match
+R514_4,Pemberi bantuan yang paling banyak berperan,6,Partai politik,R514_4,Pemberi bantuan yang paling banyak berperan,6,Partai politik,match
+R514_4,Pemberi bantuan yang paling banyak berperan,7,LSM (dalam negeri),R514_4,Pemberi bantuan yang paling banyak berperan,7,LSM (dalam negeri),match
+R514_4,Pemberi bantuan yang paling banyak berperan,8,Media massa,R514_4,Pemberi bantuan yang paling banyak berperan,8,Media massa,match
+R514_4,Pemberi bantuan yang paling banyak berperan,9,Lembaga Kemasyarakatan/kelompok masyarakat/kelompok keagamaan,R514_4,Pemberi bantuan yang paling banyak berperan,9,Lembaga Kemasyarakatan/kelompok masyarakat/kelompok keagamaan,match
+R514_4,Pemberi bantuan yang paling banyak berperan,10,Luar negeri,R514_4,Pemberi bantuan yang paling banyak berperan,10,Luar negeri,match
+R514_4,Pemberi bantuan yang paling banyak berperan,11,Lainnya,R514_4,Pemberi bantuan yang paling banyak berperan,11,Lainnya,match
+R515A1,Sistem peringatan dini (untuk desa yang berpotensi tsunami),1,Ada,R515A1,Sistem peringatan dini (untuk desa yang berpotensi tsunami),1,Ada,match
+R515A1,Sistem peringatan dini (untuk desa yang berpotensi tsunami),2,Tidak,R515A1,Sistem peringatan dini (untuk desa yang berpotensi tsunami),2,Tidak,match
+R515A2,"Perlengkapan keselamatan (perahu karet, tenda, masker, dsb)",3,Ada,R515A2,"Perlengkapan keselamatan (perahu karet, tenda, masker, dsb)",3,Ada,match
+R515A2,"Perlengkapan keselamatan (perahu karet, tenda, masker, dsb)",4,Tidak,R515A2,"Perlengkapan keselamatan (perahu karet, tenda, masker, dsb)",4,Tidak,match
+R515A3,Gotong royong warga,5,Ada,R515A3,Gotong royong warga,5,Ada,match
+R515A3,Gotong royong warga,6,Tidak,R515A3,Gotong royong warga,6,Tidak,match
+R515A4,Penyuluhan keselamatan (termasuk simulasi bencana),7,Ada,R515A4,Penyuluhan keselamatan (termasuk simulasi bencana),7,Ada,match
+R515A4,Penyuluhan keselamatan (termasuk simulasi bencana),8,Tidak,R515A4,Penyuluhan keselamatan (termasuk simulasi bencana),8,Tidak,match
+R515A5,Lainnya,1,Ada,R515A5,Lainnya,1,Ada,match
+R515A5,Lainnya,2,Tidak,R515A5,Lainnya,2,Tidak,match
+R515B1,Warga,1,Ada,R515B1,Warga,1,Ada,match
+R515B1,Warga,2,Tidak,R515B1,Warga,2,Tidak,match
+R515B2,Pemerintah Desa/Kelurahan,3,Ada,R515B2,Pemerintah Desa/Kelurahan,3,Ada,match
+R515B2,Pemerintah Desa/Kelurahan,4,Tidak,R515B2,Pemerintah Desa/Kelurahan,4,Tidak,match
+R515B3,Pemerintah Kabupaten/Kota,5,Ada,R515B3,Pemerintah Kabupaten/Kota,5,Ada,match
+R515B3,Pemerintah Kabupaten/Kota,6,Tidak,R515B3,Pemerintah Kabupaten/Kota,6,Tidak,match
+R515B4,Pemerintah Provinsi,7,Ada,R515B4,Pemerintah Provinsi,7,Ada,match
+R515B4,Pemerintah Provinsi,8,Tidak,R515B4,Pemerintah Provinsi,8,Tidak,match
+R515B5,Pemerintah Pusat,1,Ada,R515B5,Pemerintah Pusat,1,Ada,match
+R515B5,Pemerintah Pusat,2,Tidak,R515B5,Pemerintah Pusat,2,Tidak,match
+R515B6,Partai Politik,3,Ada,R515B6,Partai Politik,3,Ada,match
+R515B6,Partai Politik,4,Tidak,R515B6,Partai Politik,4,Tidak,match
+R515B7,LSM (dalam negeri),5,Ada,R515B7,LSM (dalam negeri),5,Ada,match
+R515B7,LSM (dalam negeri),6,Tidak,R515B7,LSM (dalam negeri),6,Tidak,match
+R515B8,Media Massa,7,Ada,R515B8,Media Massa,7,Ada,match
+R515B8,Media Massa,8,Tidak,R515B8,Media Massa,8,Tidak,match
+R515B9,Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan,1,Ada,R515B9,Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan,1,Ada,match
+R515B9,Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan,2,Tidak,R515B9,Lembaga Kemasyarakatan/Kelompok Masyarakat/Kelompok Keagamaan,2,Tidak,match
+R515B10,Luar Negeri,3,Ada,R515B10,Luar Negeri,3,Ada,match
+R515B10,Luar Negeri,4,Tidak,R515B10,Luar Negeri,4,Tidak,match
+R515B11,Lainnya,5,Ada,R515B11,Lainnya,5,Ada,match
+R515B11,Lainnya,6,Tidak,R515B11,Lainnya,6,Tidak,match
+R601A_2,Jumlah Sekolah TK/sederajat Negeri,-,-,R601A_2,Jumlah Sekolah TK/sederajat Negeri,-,-,match
+R601A_3,Jumlah Sekolah TK/sederajat Swasta,-,-,R601A_3,Jumlah Sekolah TK/sederajat Swasta,-,-,match
+R601A_4,Jarak ke Sekolah terdekat,-,-,R601A_4,Jarak ke Sekolah terdekat,-,-,match
+R601B_2,Jumlah Sekolah SD/sederajat Negeri,-,-,R601B_2,Jumlah Sekolah SD/sederajat Negeri,-,-,match
+R601B_3,Jumlah Sekolah SD/sederajat Swasta,-,-,R601B_3,Jumlah Sekolah SD/sederajat Swasta,-,-,match
+R601B_4,Jarak ke Sekolah SD/sederajat terdekat,-,-,R601B_4,Jarak ke Sekolah SD/sederajat terdekat,-,-,match
+R601C_2,Jumlah Sekolah SMP/sederajat Negeri,-,-,R601C_2,Jumlah Sekolah SMP/sederajat Negeri,-,-,match
+R601C_3,Jumlah Sekolah SMP/sederajat Swasta,-,-,R601C_3,Jumlah Sekolah SMP/sederajat Swasta,-,-,match
+R601C_4,Jarak ke Sekolah SMP/sederajat terdekat,-,-,R601C_4,Jarak ke Sekolah SMP/sederajat terdekat,-,-,match
+R601D_2,Jumlah Sekolah SMU/sederajat Negeri,-,-,R601D_2,Jumlah Sekolah SMU/sederajat Negeri,-,-,match
+R601D_3,Jumlah Sekolah SMU/sederajat Swasta,-,-,R601D_3,Jumlah Sekolah SMU/sederajat Swasta,-,-,match
+R601D_4,Jarak ke SekolahSMU/sederajat terdekat,-,-,R601D_4,Jarak ke SekolahSMU/sederajat terdekat,-,-,match
+R601E_2,Jumlah Sekolah SMK/sederajat Negeri,-,-,R601E_2,Jumlah Sekolah SMK/sederajat Negeri,-,-,match
+R601E_3,Jumlah Sekolah SMK/sederajat Swasta,-,-,R601E_3,Jumlah Sekolah SMK/sederajat Swasta,-,-,match
+R601E_4,Jarak ke Sekolah SMK/sederajat terdekat,-,-,R601E_4,Jarak ke Sekolah SMK/sederajat terdekat,-,-,match
+R601F_2,Jumlah Sekolah Akademi/Perguruan Tinggi yang sederajat Negeri,-,-,R601F_2,Jumlah Sekolah Akademi/Perguruan Tinggi yang sederajat Negeri,-,-,match
+R601F_3,Jumlah Sekolah Akademi/Perguruan Tinggi yang sederajat Swasta,-,-,R601F_3,Jumlah Sekolah Akademi/Perguruan Tinggi yang sederajat Swasta,-,-,match
+R601G_2,Jumlah Sekolah Sekolah Luar Biasa Negeri,-,-,R601G_2,Jumlah Sekolah Sekolah Luar Biasa Negeri,-,-,match
+R601G_3,Jumlah Sekolah Sekolah Luar Biasa Swasta,-,-,R601G_3,Jumlah Sekolah Sekolah Luar Biasa Swasta,-,-,match
+R601H,Jumlah Sekolah Pondok Pesantren Swasta,-,-,R601H,Jumlah Sekolah Pondok Pesantren Swasta,-,-,match
+R601I,Jumlah Sekolah Madrasah Diniyah Swasta,-,-,R601I,Jumlah Sekolah Madrasah Diniyah Swasta,-,-,match
+R601J,Jumlah Sekolah Seminari/sejenisnya Swasta,-,-,R601J,Jumlah Sekolah Seminari/sejenisnya Swasta,-,-,match
+R602A_2,Jenis Keterampilan : a. Bahasa asing,1,Ada,R602A_2,Jenis Keterampilan : a. Bahasa asing,1,Ada,match
+R602A_2,Jenis Keterampilan : a. Bahasa asing,2,Tidak,R602A_2,Jenis Keterampilan : a. Bahasa asing,2,Tidak,match
+R602A_3,"Jika Ada, jumlah",-,-,R602A_3,"Jika Ada, jumlah",-,-,match
+R602B_2,Jenis Keterampilan : b. Komputer,1,Ada,R602B_2,Jenis Keterampilan : b. Komputer,1,Ada,match
+R602B_2,Jenis Keterampilan : b. Komputer,2,Tidak,R602B_2,Jenis Keterampilan : b. Komputer,2,Tidak,match
+R602B_3,"Jika Ada, jumlah",-,-,R602B_3,"Jika Ada, jumlah",-,-,match
+R602C_2,Jenis Keterampilan : c. Menjahut/Tata Busana,1,Ada,R602C_2,Jenis Keterampilan : c. Menjahut/Tata Busana,1,Ada,match
+R602C_2,Jenis Keterampilan : c. Menjahut/Tata Busana,2,Tidak,R602C_2,Jenis Keterampilan : c. Menjahut/Tata Busana,2,Tidak,match
+R602C_3,"Jika Ada, jumlah",-,-,R602C_3,"Jika Ada, jumlah",-,-,match
+R602D_2,Jenis Keterampilan : d. Kecantikan,1,Ada,R602D_2,Jenis Keterampilan : d. Kecantikan,1,Ada,match
+R602D_2,Jenis Keterampilan : d. Kecantikan,2,Tidak,R602D_2,Jenis Keterampilan : d. Kecantikan,2,Tidak,match
+R602D_3,"Jika Ada, jumlah",-,-,R602D_3,"Jika Ada, jumlah",-,-,match
+R602E_2,Jenis Keterampilan : e. Montir Mobil/Motor,1,Ada,R602E_2,Jenis Keterampilan : e. Montir Mobil/Motor,1,Ada,match
+R602E_2,Jenis Keterampilan : e. Montir Mobil/Motor,2,Tidak,R602E_2,Jenis Keterampilan : e. Montir Mobil/Motor,2,Tidak,match
+R602E_3,"Jika Ada, jumlah",-,-,R602E_3,"Jika Ada, jumlah",-,-,match
+R602F_2,Jenis Keterampilan : f. Elektronik,1,Ada,R602F_2,Jenis Keterampilan : f. Elektronik,1,Ada,match
+R602F_2,Jenis Keterampilan : f. Elektronik,2,Tidak,R602F_2,Jenis Keterampilan : f. Elektronik,2,Tidak,match
+R602F_3,"Jika Ada, jumlah",-,-,R602F_3,"Jika Ada, jumlah",-,-,match
+R602G_2,Jenis Keterampilan : g. Lainnya,1,Ada,R602G_2,Jenis Keterampilan : g. Lainnya,1,Ada,match
+R602G_2,Jenis Keterampilan : g. Lainnya,2,Tidak,R602G_2,Jenis Keterampilan : g. Lainnya,2,Tidak,match
+R602G_3,"Jika Ada, jumlah",-,-,R602G_3,"Jika Ada, jumlah",-,-,match
+R603A,Pemberantasan buta aksara/keaksaraan fungsional dalam 3 tahun terakhir:,1,Ada,R603A,Pemberantasan buta aksara/keaksaraan fungsional dalam 3 tahun terakhir:,1,Ada,match
+R603A,Pemberantasan buta aksara/keaksaraan fungsional dalam 3 tahun terakhir:,2,Tidak,R603A,Pemberantasan buta aksara/keaksaraan fungsional dalam 3 tahun terakhir:,2,Tidak,match
+R603B,Pos Pendidikan Anak Usia Dini (PAUD),1,Ada,R603B,Pos Pendidikan Anak Usia Dini (PAUD),1,Ada,match
+R603B,Pos Pendidikan Anak Usia Dini (PAUD),2,Tidak,R603B,Pos Pendidikan Anak Usia Dini (PAUD),2,Tidak,match
+R603C,Taman Bacaan Masyarakat (TBM),1,Ada,R603C,Taman Bacaan Masyarakat (TBM),1,Ada,match
+R603C,Taman Bacaan Masyarakat (TBM),2,Tidak,R603C,Taman Bacaan Masyarakat (TBM),2,Tidak,match
+R604A_2,Sarana Kesehatan : a. Rumah sakit,1,Ada,R604A_2,Sarana Kesehatan : a. Rumah sakit,1,Ada,match
+R604A_2,Sarana Kesehatan : a. Rumah sakit,2,Tidak,R604A_2,Sarana Kesehatan : a. Rumah sakit,2,Tidak,match
+R604A_4,Jarak ke Sarana Kesehatan terdekat : a. Rumah sakit,-,-,R604A_4,Jarak ke Sarana Kesehatan terdekat : a. Rumah sakit,-,-,match
+R604A_5,Kemudahan untuk mencapai : a. Rumah sakit,1,Sangat mudah,R604A_5,Kemudahan untuk mencapai : a. Rumah sakit,1,Sangat mudah,match
+R604A_5,Kemudahan untuk mencapai : a. Rumah sakit,2,Mudah,R604A_5,Kemudahan untuk mencapai : a. Rumah sakit,2,Mudah,match
+R604A_5,Kemudahan untuk mencapai : a. Rumah sakit,3,Sulit,R604A_5,Kemudahan untuk mencapai : a. Rumah sakit,3,Sulit,match
+R604A_5,Kemudahan untuk mencapai : a. Rumah sakit,4,Sangat sulit,R604A_5,Kemudahan untuk mencapai : a. Rumah sakit,4,Sangat sulit,match
+R604B_2,Sarana Kesehatan : b. Rumah sakit bersalin/Rumah bersalin,1,Ada,R604B_2,Sarana Kesehatan : b. Rumah sakit bersalin/Rumah bersalin,1,Ada,match
+R604B_2,Sarana Kesehatan : b. Rumah sakit bersalin/Rumah bersalin,2,Tidak,R604B_2,Sarana Kesehatan : b. Rumah sakit bersalin/Rumah bersalin,2,Tidak,match
+R604B_4,Jarak ke Sarana Kesehatan terdekat : b. Rumah sakit bersalin/Rumah bersalin,-,-,R604B_4,Jarak ke Sarana Kesehatan terdekat : b. Rumah sakit bersalin/Rumah bersalin,-,-,match
+R604B_5,Kemudahan untuk mencapai : b. Rumah sakit bersalin/Rumah bersalin,1,Sangat mudah,R604B_5,Kemudahan untuk mencapai : b. Rumah sakit bersalin/Rumah bersalin,1,Sangat mudah,match
+R604B_5,Kemudahan untuk mencapai : b. Rumah sakit bersalin/Rumah bersalin,2,Mudah,R604B_5,Kemudahan untuk mencapai : b. Rumah sakit bersalin/Rumah bersalin,2,Mudah,match
+R604B_5,Kemudahan untuk mencapai : b. Rumah sakit bersalin/Rumah bersalin,3,Sulit,R604B_5,Kemudahan untuk mencapai : b. Rumah sakit bersalin/Rumah bersalin,3,Sulit,match
+R604B_5,Kemudahan untuk mencapai : b. Rumah sakit bersalin/Rumah bersalin,4,Sangat sulit,R604B_5,Kemudahan untuk mencapai : b. Rumah sakit bersalin/Rumah bersalin,4,Sangat sulit,match
+R604C_2,Sarana Kesehatan : c. Poliklinik/Balai pengobatan,1,Ada,R604C_2,Sarana Kesehatan : c. Poliklinik/Balai pengobatan,1,Ada,match
+R604C_2,Sarana Kesehatan : c. Poliklinik/Balai pengobatan,2,Tidak,R604C_2,Sarana Kesehatan : c. Poliklinik/Balai pengobatan,2,Tidak,match
+R604C_4,Jarak ke Sarana Kesehatan terdekat : c. Poliklinik/Balai pengobatan,-,-,R604C_4,Jarak ke Sarana Kesehatan terdekat : c. Poliklinik/Balai pengobatan,-,-,match
+R604C_5,Kemudahan untuk mencapai : c. Poliklinik/Balai pengobatan,1,Sangat mudah,R604C_5,Kemudahan untuk mencapai : c. Poliklinik/Balai pengobatan,1,Sangat mudah,match
+R604C_5,Kemudahan untuk mencapai : c. Poliklinik/Balai pengobatan,2,Mudah,R604C_5,Kemudahan untuk mencapai : c. Poliklinik/Balai pengobatan,2,Mudah,match
+R604C_5,Kemudahan untuk mencapai : c. Poliklinik/Balai pengobatan,3,Sulit,R604C_5,Kemudahan untuk mencapai : c. Poliklinik/Balai pengobatan,3,Sulit,match
+R604C_5,Kemudahan untuk mencapai : c. Poliklinik/Balai pengobatan,4,Sangat sulit,R604C_5,Kemudahan untuk mencapai : c. Poliklinik/Balai pengobatan,4,Sangat sulit,match
+R604D_2,Sarana Kesehatan : d. Puskesmas,1,Ada,R604D_2,Sarana Kesehatan : d. Puskesmas,1,Ada,match
+R604D_2,Sarana Kesehatan : d. Puskesmas,2,Tidak,R604D_2,Sarana Kesehatan : d. Puskesmas,2,Tidak,match
+R604D_4,Jarak ke Sarana Kesehatan terdekat : d. Puskesmas,-,-,R604D_4,Jarak ke Sarana Kesehatan terdekat : d. Puskesmas,-,-,match
+R604D_5,Kemudahan untuk mencapai : d. Puskesmas,1,Sangat mudah,R604D_5,Kemudahan untuk mencapai : d. Puskesmas,1,Sangat mudah,match
+R604D_5,Kemudahan untuk mencapai : d. Puskesmas,2,Mudah,R604D_5,Kemudahan untuk mencapai : d. Puskesmas,2,Mudah,match
+R604D_5,Kemudahan untuk mencapai : d. Puskesmas,3,Sulit,R604D_5,Kemudahan untuk mencapai : d. Puskesmas,3,Sulit,match
+R604D_5,Kemudahan untuk mencapai : d. Puskesmas,4,Sangat sulit,R604D_5,Kemudahan untuk mencapai : d. Puskesmas,4,Sangat sulit,match
+R604E_2,Sarana Kesehatan : e. Puskesmas pembantu,1,Ada,R604E_2,Sarana Kesehatan : e. Puskesmas pembantu,1,Ada,match
+R604E_2,Sarana Kesehatan : e. Puskesmas pembantu,2,Tidak,R604E_2,Sarana Kesehatan : e. Puskesmas pembantu,2,Tidak,match
+R604E_4,Jarak ke Sarana Kesehatan terdekat : e. Puskesmas pembantu,-,-,R604E_4,Jarak ke Sarana Kesehatan terdekat : e. Puskesmas pembantu,-,-,match
+R604E_5,Kemudahan untuk mencapai : e. Puskesmas pembantu,1,Sangat mudah,R604E_5,Kemudahan untuk mencapai : e. Puskesmas pembantu,1,Sangat mudah,match
+R604E_5,Kemudahan untuk mencapai : e. Puskesmas pembantu,2,Mudah,R604E_5,Kemudahan untuk mencapai : e. Puskesmas pembantu,2,Mudah,match
+R604E_5,Kemudahan untuk mencapai : e. Puskesmas pembantu,3,Sulit,R604E_5,Kemudahan untuk mencapai : e. Puskesmas pembantu,3,Sulit,match
+R604E_5,Kemudahan untuk mencapai : e. Puskesmas pembantu,4,Sangat sulit,R604E_5,Kemudahan untuk mencapai : e. Puskesmas pembantu,4,Sangat sulit,match
+R604F_2,Sarana Kesehatan : f. Tempat praktek dokter,1,Ada,R604F_2,Sarana Kesehatan : f. Tempat praktek dokter,1,Ada,match
+R604F_2,Sarana Kesehatan : f. Tempat praktek dokter,2,Tidak,R604F_2,Sarana Kesehatan : f. Tempat praktek dokter,2,Tidak,match
+R604F_4,Jarak ke Sarana Kesehatan terdekat : f. Tempat praktek dokter,-,-,R604F_4,Jarak ke Sarana Kesehatan terdekat : f. Tempat praktek dokter,-,-,match
+R604F_5,Kemudahan untuk mencapai : f. Tempat praktek dokter,1,Sangat mudah,R604F_5,Kemudahan untuk mencapai : f. Tempat praktek dokter,1,Sangat mudah,match
+R604F_5,Kemudahan untuk mencapai : f. Tempat praktek dokter,2,Mudah,R604F_5,Kemudahan untuk mencapai : f. Tempat praktek dokter,2,Mudah,match
+R604F_5,Kemudahan untuk mencapai : f. Tempat praktek dokter,3,Sulit,R604F_5,Kemudahan untuk mencapai : f. Tempat praktek dokter,3,Sulit,match
+R604F_5,Kemudahan untuk mencapai : f. Tempat praktek dokter,4,Sangat sulit,R604F_5,Kemudahan untuk mencapai : f. Tempat praktek dokter,4,Sangat sulit,match
+R604G_2,Sarana Kesehatan : g. Tempat praktek bidan,1,Ada,R604G_2,Sarana Kesehatan : g. Tempat praktek bidan,1,Ada,match
+R604G_2,Sarana Kesehatan : g. Tempat praktek bidan,2,Tidak,R604G_2,Sarana Kesehatan : g. Tempat praktek bidan,2,Tidak,match
+R604G_4,Jarak ke Sarana Kesehatan terdekat : g. Tempat praktek bidan,-,-,R604G_4,Jarak ke Sarana Kesehatan terdekat : g. Tempat praktek bidan,-,-,match
+R604G_5,Kemudahan untuk mencapai : g. Tempat praktek bidan,1,Sangat mudah,R604G_5,Kemudahan untuk mencapai : g. Tempat praktek bidan,1,Sangat mudah,match
+R604G_5,Kemudahan untuk mencapai : g. Tempat praktek bidan,2,Mudah,R604G_5,Kemudahan untuk mencapai : g. Tempat praktek bidan,2,Mudah,match
+R604G_5,Kemudahan untuk mencapai : g. Tempat praktek bidan,3,Sulit,R604G_5,Kemudahan untuk mencapai : g. Tempat praktek bidan,3,Sulit,match
+R604G_5,Kemudahan untuk mencapai : g. Tempat praktek bidan,4,Sangat sulit,R604G_5,Kemudahan untuk mencapai : g. Tempat praktek bidan,4,Sangat sulit,match
+R604H_2,Sarana Kesehatan : h. Poskesdes,1,Ada,R604H_2,Sarana Kesehatan : h. Poskesdes,1,Ada,match
+R604H_2,Sarana Kesehatan : h. Poskesdes,2,Tidak,R604H_2,Sarana Kesehatan : h. Poskesdes,2,Tidak,match
+R604H_3,"Jika ada, sebutkan jumlahnya",-,-,R604H_3,"Jika ada, sebutkan jumlahnya",-,-,match
+R604H_4,Jarak ke Sarana Kesehatan terdekat : h. Poskesdes,-,-,R604H_4,Jarak ke Sarana Kesehatan terdekat : h. Poskesdes,-,-,match
+R604H_5,Kemudahan untuk mencapai : h. Poskesdes,1,Sangat mudah,R604H_5,Kemudahan untuk mencapai : h. Poskesdes,1,Sangat mudah,match
+R604H_5,Kemudahan untuk mencapai : h. Poskesdes,2,Mudah,R604H_5,Kemudahan untuk mencapai : h. Poskesdes,2,Mudah,match
+R604H_5,Kemudahan untuk mencapai : h. Poskesdes,3,Sulit,R604H_5,Kemudahan untuk mencapai : h. Poskesdes,3,Sulit,match
+R604H_5,Kemudahan untuk mencapai : h. Poskesdes,4,Sangat sulit,R604H_5,Kemudahan untuk mencapai : h. Poskesdes,4,Sangat sulit,match
+R604I_2,Sarana Kesehatan : i. Polindes,1,Ada,R604I_2,Sarana Kesehatan : i. Polindes,1,Ada,match
+R604I_2,Sarana Kesehatan : i. Polindes,2,Tidak,R604I_2,Sarana Kesehatan : i. Polindes,2,Tidak,match
+R604I_3,"Jika ada, sebutkan jumlahnya",-,-,R604I_3,"Jika ada, sebutkan jumlahnya",-,-,match
+R604I_4,Jarak ke Sarana Kesehatan terdekat : i. Polindes,-,-,R604I_4,Jarak ke Sarana Kesehatan terdekat : i. Polindes,-,-,match
+R604I_5,Kemudahan untuk mencapai : i. Polindes,1,Sangat mudah,R604I_5,Kemudahan untuk mencapai : i. Polindes,1,Sangat mudah,match
+R604I_5,Kemudahan untuk mencapai : i. Polindes,2,Mudah,R604I_5,Kemudahan untuk mencapai : i. Polindes,2,Mudah,match
+R604I_5,Kemudahan untuk mencapai : i. Polindes,3,Sulit,R604I_5,Kemudahan untuk mencapai : i. Polindes,3,Sulit,match
+R604I_5,Kemudahan untuk mencapai : i. Polindes,4,Sangat sulit,R604I_5,Kemudahan untuk mencapai : i. Polindes,4,Sangat sulit,match
+R604J_2,Sarana Kesehatan : j. Posyandu,1,Ada,R604J_2,Sarana Kesehatan : j. Posyandu,1,Ada,match
+R604J_2,Sarana Kesehatan : j. Posyandu,2,Tidak,R604J_2,Sarana Kesehatan : j. Posyandu,2,Tidak,match
+R604J_3,"Jika ada, sebutkan jumlahnya",-,-,R604J_3,"Jika ada, sebutkan jumlahnya",-,-,match
+R604K_2,Sarana Kesehatan : k. Apotek,1,Ada,R604K_2,Sarana Kesehatan : k. Apotek,1,Ada,match
+R604K_2,Sarana Kesehatan : k. Apotek,2,Tidak,R604K_2,Sarana Kesehatan : k. Apotek,2,Tidak,match
+R604K_3,"Jika ada, sebutkan jumlahnya",-,-,R604K_3,"Jika ada, sebutkan jumlahnya",-,-,match
+R604K_4,Jarak ke Sarana Kesehatan terdekat : k. Apotek,-,-,R604K_4,Jarak ke Sarana Kesehatan terdekat : k. Apotek,-,-,match
+R604K_5,Kemudahan untuk mencapai : k. Apotek,1,Sangat mudah,R604K_5,Kemudahan untuk mencapai : k. Apotek,1,Sangat mudah,match
+R604K_5,Kemudahan untuk mencapai : k. Apotek,2,Mudah,R604K_5,Kemudahan untuk mencapai : k. Apotek,2,Mudah,match
+R604K_5,Kemudahan untuk mencapai : k. Apotek,3,Sulit,R604K_5,Kemudahan untuk mencapai : k. Apotek,3,Sulit,match
+R604K_5,Kemudahan untuk mencapai : k. Apotek,4,Sangat sulit,R604K_5,Kemudahan untuk mencapai : k. Apotek,4,Sangat sulit,match
+R604L_2,Sarana Kesehatan : l. Toko khusus obat/jamu,-,-,R604L_2,Sarana Kesehatan : l. Toko khusus obat/jamu,-,-,match
+R604L_3,"Jika ada, sebutkan jumlahnya",-,-,R604L_3,"Jika ada, sebutkan jumlahnya",-,-,match
+R604L_4,Jarak ke Sarana Kesehatan terdekat : l. Toko khusus obat/jamu,-,-,R604L_4,Jarak ke Sarana Kesehatan terdekat : l. Toko khusus obat/jamu,-,-,match
+R604L_5,Kemudahan untuk mencapai : l. Toko khusus obat/jamu,1,Sangat mudah,R604L_5,Kemudahan untuk mencapai : l. Toko khusus obat/jamu,1,Sangat mudah,match
+R604L_5,Kemudahan untuk mencapai : l. Toko khusus obat/jamu,2,Mudah,R604L_5,Kemudahan untuk mencapai : l. Toko khusus obat/jamu,2,Mudah,match
+R604L_5,Kemudahan untuk mencapai : l. Toko khusus obat/jamu,3,Sulit,R604L_5,Kemudahan untuk mencapai : l. Toko khusus obat/jamu,3,Sulit,match
+R604L_5,Kemudahan untuk mencapai : l. Toko khusus obat/jamu,4,Sangat sulit,R604L_5,Kemudahan untuk mencapai : l. Toko khusus obat/jamu,4,Sangat sulit,match
+R605A,Kegiatan Posyandu,1,Seluruhnya aktif,R605A,Kegiatan Posyandu,1,Seluruhnya aktif,match
+R605A,Kegiatan Posyandu,2,Sebagian aktif,R605A,Kegiatan Posyandu,2,Sebagian aktif,match
+R605A,Kegiatan Posyandu,3,Tidak ada yang aktif,R605A,Kegiatan Posyandu,3,Tidak ada yang aktif,match
+R605B,Diadakan setiap,1,Satu bulan,R605B,Diadakan setiap,1,Satu bulan,match
+R605B,Diadakan setiap,2,Lebih dari satu bulan,R605B,Diadakan setiap,2,Lebih dari satu bulan,match
+R606A1,Dokter Pria,-,-,R606A1,Dokter Pria,-,-,match
+R606A2,Dokter Wanita,-,-,R606A2,Dokter Wanita,-,-,match
+R606B,Dokter Gigi,-,-,R606B,Dokter Gigi,-,-,match
+R606C,Bidan,-,-,R606C,Bidan,-,-,match
+R606D,Tenaga kesehatan lainnya (Mantri Kesehatan),-,-,R606D,Tenaga kesehatan lainnya (Mantri Kesehatan),-,-,match
+R606E,Dukun bayi,-,-,R606E,Dukun bayi,-,-,match
+R607A_2,Wabah penyakit selama setahun terakhir : a. Muntaber/Diare,1,Ada,R607A_2,Wabah penyakit selama setahun terakhir : a. Muntaber/Diare,1,Ada,match
+R607A_2,Wabah penyakit selama setahun terakhir : a. Muntaber/Diare,2,Tidak,R607A_2,Wabah penyakit selama setahun terakhir : a. Muntaber/Diare,2,Tidak,match
+R607A_3,Jumlah penderita : a. Muntaber/Diare,-,-,R607A_3,Jumlah penderita : a. Muntaber/Diare,-,-,match
+R607A_4,Jumlah yang meninggal :  a. Muntaber/Diare,-,-,R607A_4,Jumlah yang meninggal :  a. Muntaber/Diare,-,-,match
+R607B_2,Wabah penyakit selama setahun terakhir : b. Demam Berdarah,1,Ada,R607B_2,Wabah penyakit selama setahun terakhir : b. Demam Berdarah,1,Ada,match
+R607B_2,Wabah penyakit selama setahun terakhir : b. Demam Berdarah,2,Tidak,R607B_2,Wabah penyakit selama setahun terakhir : b. Demam Berdarah,2,Tidak,match
+R607B_3,Jumlah penderita : b. Demam Berdarah,-,-,R607B_3,Jumlah penderita : b. Demam Berdarah,-,-,match
+R607B_4,Jumlah yang meninggal :  b. Demam Berdarah,-,-,R607B_4,Jumlah yang meninggal :  b. Demam Berdarah,-,-,match
+R607C_2,Wabah penyakit selama setahun terakhir : c. Campak,1,Ada,R607C_2,Wabah penyakit selama setahun terakhir : c. Campak,1,Ada,match
+R607C_2,Wabah penyakit selama setahun terakhir : c. Campak,2,Tidak,R607C_2,Wabah penyakit selama setahun terakhir : c. Campak,2,Tidak,match
+R607C_3,Jumlah penderita : c. Campak,-,-,R607C_3,Jumlah penderita : c. Campak,-,-,match
+R607C_4,Jumlah yang meninggal :  c. Campak,-,-,R607C_4,Jumlah yang meninggal :  c. Campak,-,-,match
+R607D_2,Wabah penyakit selama setahun terakhir : d. ISPA,1,Ada,R607D_2,Wabah penyakit selama setahun terakhir : d. ISPA,1,Ada,match
+R607D_2,Wabah penyakit selama setahun terakhir : d. ISPA,2,Tidak,R607D_2,Wabah penyakit selama setahun terakhir : d. ISPA,2,Tidak,match
+R607D_3,Jumlah penderita : d. ISPA,-,-,R607D_3,Jumlah penderita : d. ISPA,-,-,match
+R607D_4,Jumlah yang meninggal :  d. ISPA,-,-,R607D_4,Jumlah yang meninggal :  d. ISPA,-,-,match
+R607E_2,Wabah penyakit selama setahun terakhir : e. Malaria,1,Ada,R607E_2,Wabah penyakit selama setahun terakhir : e. Malaria,1,Ada,match
+R607E_2,Wabah penyakit selama setahun terakhir : e. Malaria,2,Tidak,R607E_2,Wabah penyakit selama setahun terakhir : e. Malaria,2,Tidak,match
+R607E_3,Jumlah penderita : e. Malaria,-,-,R607E_3,Jumlah penderita : e. Malaria,-,-,match
+R607E_4,Jumlah yang meninggal :  e. Malaria,-,-,R607E_4,Jumlah yang meninggal :  e. Malaria,-,-,match
+R607F_2,Wabah penyakit selama setahun terakhir : f. Flu burung,1,Ada,R607F_2,Wabah penyakit selama setahun terakhir : f. Flu burung,1,Ada,match
+R607F_2,Wabah penyakit selama setahun terakhir : f. Flu burung,2,Tidak,R607F_2,Wabah penyakit selama setahun terakhir : f. Flu burung,2,Tidak,match
+R607F_3,Jumlah penderita : f. Flu burung,-,-,R607F_3,Jumlah penderita : f. Flu burung,-,-,match
+R607F_4,Jumlah yang meninggal :  f. Flu burung,-,-,R607F_4,Jumlah yang meninggal :  f. Flu burung,-,-,match
+R607G_2,Wabah penyakit selama setahun terakhir : g. TBC,1,Ada,R607G_2,Wabah penyakit selama setahun terakhir : g. TBC,1,Ada,match
+R607G_2,Wabah penyakit selama setahun terakhir : g. TBC,2,Tidak,R607G_2,Wabah penyakit selama setahun terakhir : g. TBC,2,Tidak,match
+R607G_3,Jumlah penderita : g. TBC,-,-,R607G_3,Jumlah penderita : g. TBC,-,-,match
+R607G_4,Jumlah yang meninggal :  g. TBC,-,-,R607G_4,Jumlah yang meninggal :  g. TBC,-,-,match
+R607H_2,Wabah penyakit selama setahun terakhir : h. Lainnya,1,Ada,R607H_2,Wabah penyakit selama setahun terakhir : h. Lainnya,1,Ada,match
+R607H_2,Wabah penyakit selama setahun terakhir : h. Lainnya,2,Tidak,R607H_2,Wabah penyakit selama setahun terakhir : h. Lainnya,2,Tidak,match
+R607H_3,Jumlah penderita : h. Lainnya,-,-,R607H_3,Jumlah penderita : h. Lainnya,-,-,match
+R607H_4,Jumlah yang meninggal :  h. Lainnya,-,-,R607H_4,Jumlah yang meninggal :  h. Lainnya,-,-,match
+R608,Jumlah penderita gizi buruk dalam 3 tahun terakhir,-,-,R608,Jumlah penderita gizi buruk dalam 3 tahun terakhir,-,-,match
+R609,Jumlah keluarga yang menerima kartu ASKESKIN dalam setahun terakhir,-,-,R609,Jumlah keluarga yang menerima kartu ASKESKIN dalam setahun terakhir,-,-,match
+R610,Jumlah surat miskin/SKTM yang dikeluarkan desa dalam setahun terakhir,-,-,R610,Jumlah surat miskin/SKTM yang dikeluarkan desa dalam setahun terakhir,-,-,match
+R611,Apakah saudara pernah mendengar dan mengetahui tentang desa siaga?,1,Ya,R611,Apakah saudara pernah mendengar dan mengetahui tentang desa siaga?,1,Ya,match
+R611,Apakah saudara pernah mendengar dan mengetahui tentang desa siaga?,2,Tidak,R611,Apakah saudara pernah mendengar dan mengetahui tentang desa siaga?,2,Tidak,match
+R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,1,PAM/Air dalam kemasan,R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,1,PAM/Air dalam kemasan,match
+R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,2,Pompa listrik/tangan,R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,2,Pompa listrik/tangan,match
+R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,3,Sumur,R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,3,Sumur,match
+R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,4,Mata air,R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,4,Mata air,match
+R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,5,Sungai/danau,R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,5,Sungai/danau,match
+R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,6,Hujan,R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,6,Hujan,match
+R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,7,Lainnya,R612A,Keperluan air untuk minum/memasak pada umumnya bersumber dari,7,Lainnya,match
+R612B,Penduduk desa/kelurahan ini yang  membeli air untuk minum/memasak,1,Ada,R612B,Penduduk desa/kelurahan ini yang  membeli air untuk minum/memasak,1,Ada,match
+R612B,Penduduk desa/kelurahan ini yang  membeli air untuk minum/memasak,2,Tidak,R612B,Penduduk desa/kelurahan ini yang  membeli air untuk minum/memasak,2,Tidak,match
+R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,1,Islam,R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,1,Islam,match
+R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,2,Kristen,R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,2,Kristen,match
+R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,4,Katholik,R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,4,Katholik,match
+R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,8,Hindu,R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,8,Hindu,match
+R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,16,Budha,R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,16,Budha,match
+R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,32,Konghucu,R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,32,Konghucu,match
+R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,64,Lainnya,R701,Agama/kepercayaan yang dianut penduduk desa/kelurahan ini,64,Lainnya,match
+R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,1,Islam,R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,1,Islam,match
+R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,2,Kristen,R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,2,Kristen,match
+R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,4,Katholik,R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,4,Katholik,match
+R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,8,Hindu,R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,8,Hindu,match
+R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,16,Budha,R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,16,Budha,match
+R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,32,Konghucu,R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,32,Konghucu,match
+R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,64,Lainnya,R702,Mayoritas  pemeluk agama/kepercayaan di desa/kelurahan ini,64,Lainnya,match
+R703A,a. Masjid,-,-,R703A,a. Masjid,-,-,match
+R703B,b. Surau/Langgar,-,-,R703B,b. Surau/Langgar,-,-,match
+R703C,c. Gereja Kristen,-,-,R703C,c. Gereja Kristen,-,-,match
+R703D,d. Gereja Katholik,-,-,R703D,d. Gereja Katholik,-,-,match
+R703E,e. Pura,-,-,R703E,e. Pura,-,-,match
+R703F,f. Vihara/Klenteng,-,-,R703F,f. Vihara/Klenteng,-,-,match
+R7041_2,Keberadaan : 1)  Majelis Ta'lim/Kelompok Pengajian,1,Ada,R7041_2,Keberadaan : 1)  Majelis Ta'lim/Kelompok Pengajian,1,Ada,match
+R7041_2,Keberadaan : 1)  Majelis Ta'lim/Kelompok Pengajian,2,Tidak,R7041_2,Keberadaan : 1)  Majelis Ta'lim/Kelompok Pengajian,2,Tidak,match
+R7041_3,Kegiatan : 1)  Majelis Ta'lim/Kelompok Pengajian,1,Ada,R7041_3,Kegiatan : 1)  Majelis Ta'lim/Kelompok Pengajian,1,Ada,match
+R7041_3,Kegiatan : 1)  Majelis Ta'lim/Kelompok Pengajian,2,Tidak,R7041_3,Kegiatan : 1)  Majelis Ta'lim/Kelompok Pengajian,2,Tidak,match
+R7042_2,Keberadaan : 2)  Kelompok Kebaktian,1,Ada,R7042_2,Keberadaan : 2)  Kelompok Kebaktian,1,Ada,match
+R7042_2,Keberadaan : 2)  Kelompok Kebaktian,2,Tidak,R7042_2,Keberadaan : 2)  Kelompok Kebaktian,2,Tidak,match
+R7042_3,Kegiatan : 2)  Kelompok Kebaktian,1,Ada,R7042_3,Kegiatan : 2)  Kelompok Kebaktian,1,Ada,match
+R7042_3,Kegiatan : 2)  Kelompok Kebaktian,2,Tidak,R7042_3,Kegiatan : 2)  Kelompok Kebaktian,2,Tidak,match
+R7043_2,Keberadaan : 3)  Yayasan/Kelompok/Persatuan Kematian,1,Ada,R7043_2,Keberadaan : 3)  Yayasan/Kelompok/Persatuan Kematian,1,Ada,match
+R7043_2,Keberadaan : 3)  Yayasan/Kelompok/Persatuan Kematian,2,Tidak,R7043_2,Keberadaan : 3)  Yayasan/Kelompok/Persatuan Kematian,2,Tidak,match
+R7043_3,Kegiatan : 3)  Yayasan/Kelompok/Persatuan Kematian,1,Ada,R7043_3,Kegiatan : 3)  Yayasan/Kelompok/Persatuan Kematian,1,Ada,match
+R7043_3,Kegiatan : 3)  Yayasan/Kelompok/Persatuan Kematian,2,Tidak,R7043_3,Kegiatan : 3)  Yayasan/Kelompok/Persatuan Kematian,2,Tidak,match
+R7044_2,Keberadaan : 4)  Lembaga Swadaya Masyarakat (LSM),1,Ada,R7044_2,Keberadaan : 4)  Lembaga Swadaya Masyarakat (LSM),1,Ada,match
+R7044_2,Keberadaan : 4)  Lembaga Swadaya Masyarakat (LSM),2,Tidak,R7044_2,Keberadaan : 4)  Lembaga Swadaya Masyarakat (LSM),2,Tidak,match
+R7044_3,Kegiatan : 4)  Lembaga Swadaya Masyarakat (LSM),1,Ada,R7044_3,Kegiatan : 4)  Lembaga Swadaya Masyarakat (LSM),1,Ada,match
+R7044_3,Kegiatan : 4)  Lembaga Swadaya Masyarakat (LSM),2,Tidak,R7044_3,Kegiatan : 4)  Lembaga Swadaya Masyarakat (LSM),2,Tidak,match
+R705A_2,Keberadaan : a. Tuna Netra (Buta),1,Ada,R705A_2,Keberadaan : a. Tuna Netra (Buta),1,Ada,match
+R705A_2,Keberadaan : a. Tuna Netra (Buta),2,Tidak,R705A_2,Keberadaan : a. Tuna Netra (Buta),2,Tidak,match
+R705A_3,"Jika ada, jumlah (orang) : a. Tuna Netra (Buta)",-,-,R705A_3,"Jika ada, jumlah (orang) : a. Tuna Netra (Buta)",-,-,match
+R705B_2,Keberadaan : b. Tuna Rungu (Tuli),1,Ada,R705B_2,Keberadaan : b. Tuna Rungu (Tuli),1,Ada,match
+R705B_2,Keberadaan : b. Tuna Rungu (Tuli),2,Tidak,R705B_2,Keberadaan : b. Tuna Rungu (Tuli),2,Tidak,match
+R705B_3,"Jika ada, jumlah (orang) : b. Tuna Rungu (Tuli)",-,-,R705B_3,"Jika ada, jumlah (orang) : b. Tuna Rungu (Tuli)",-,-,match
+R705C_2,Keberadaan : c. Tuna Wicara (Bisu),1,Ada,R705C_2,Keberadaan : c. Tuna Wicara (Bisu),1,Ada,match
+R705C_2,Keberadaan : c. Tuna Wicara (Bisu),2,Tidak,R705C_2,Keberadaan : c. Tuna Wicara (Bisu),2,Tidak,match
+R705C_3,"Jika ada, jumlah (orang) : c. Tuna Wicara (Bisu)",-,-,R705C_3,"Jika ada, jumlah (orang) : c. Tuna Wicara (Bisu)",-,-,match
+R705D_2,Keberadaan : d. Tuna Rungu-Wicara (Bisu-Tuli),1,Ada,R705D_2,Keberadaan : d. Tuna Rungu-Wicara (Bisu-Tuli),1,Ada,match
+R705D_2,Keberadaan : d. Tuna Rungu-Wicara (Bisu-Tuli),2,Tidak,R705D_2,Keberadaan : d. Tuna Rungu-Wicara (Bisu-Tuli),2,Tidak,match
+R705D_3,"Jika ada, jumlah (orang) : d. Tuna Rungu-Wicara (Bisu-Tuli)",-,-,R705D_3,"Jika ada, jumlah (orang) : d. Tuna Rungu-Wicara (Bisu-Tuli)",-,-,match
+R705E_2,Keberadaan : e. Tuna Daksa (Cacat Tubuh),1,Ada,R705E_2,Keberadaan : e. Tuna Daksa (Cacat Tubuh),1,Ada,match
+R705E_2,Keberadaan : e. Tuna Daksa (Cacat Tubuh),2,Tidak,R705E_2,Keberadaan : e. Tuna Daksa (Cacat Tubuh),2,Tidak,match
+R705E_3,"Jika ada, jumlah (orang) : e. Tuna Daksa (Cacat Tubuh)",-,-,R705E_3,"Jika ada, jumlah (orang) : e. Tuna Daksa (Cacat Tubuh)",-,-,match
+R705F_2,Keberadaan : f. Tuna Grahita (Cacat mental/Keterbelakangan mental),1,Ada,R705F_2,Keberadaan : f. Tuna Grahita (Cacat mental/Keterbelakangan mental),1,Ada,match
+R705F_2,Keberadaan : f. Tuna Grahita (Cacat mental/Keterbelakangan mental),2,Tidak,R705F_2,Keberadaan : f. Tuna Grahita (Cacat mental/Keterbelakangan mental),2,Tidak,match
+R705F_3,"Jika ada, jumlah (orang) : f. Tuna Grahita (Cacat mental/Keterbelakangan mental)",-,-,R705F_3,"Jika ada, jumlah (orang) : f. Tuna Grahita (Cacat mental/Keterbelakangan mental)",-,-,match
+R705G_2,Keberadaan : g. Tuna Laras (Eks penyakit jiwa),1,Ada,R705G_2,Keberadaan : g. Tuna Laras (Eks penyakit jiwa),1,Ada,match
+R705G_2,Keberadaan : g. Tuna Laras (Eks penyakit jiwa),2,Tidak,R705G_2,Keberadaan : g. Tuna Laras (Eks penyakit jiwa),2,Tidak,match
+R705G_3,"Jika ada, jumlah (orang) : g. Tuna Laras (Eks penyakit jiwa)",-,-,R705G_3,"Jika ada, jumlah (orang) : g. Tuna Laras (Eks penyakit jiwa)",-,-,match
+R705H_2,Keberadaan : h. Cacat Eks penderita kusta,1,Ada,R705H_2,Keberadaan : h. Cacat Eks penderita kusta,1,Ada,match
+R705H_2,Keberadaan : h. Cacat Eks penderita kusta,2,Tidak,R705H_2,Keberadaan : h. Cacat Eks penderita kusta,2,Tidak,match
+R705H_3,"Jika ada, jumlah (orang) : h. Cacat Eks penderita kusta",-,-,R705H_3,"Jika ada, jumlah (orang) : h. Cacat Eks penderita kusta",-,-,match
+R705I_2,Keberadaan : i. Cacat ganda (Fisik-Mental),1,Ada,R705I_2,Keberadaan : i. Cacat ganda (Fisik-Mental),1,Ada,match
+R705I_2,Keberadaan : i. Cacat ganda (Fisik-Mental),2,Tidak,R705I_2,Keberadaan : i. Cacat ganda (Fisik-Mental),2,Tidak,match
+R705I_3,"Jika ada, jumlah (orang) : i. Cacat ganda (Fisik-Mental)",-,-,R705I_3,"Jika ada, jumlah (orang) : i. Cacat ganda (Fisik-Mental)",-,-,match
+R706,Penduduk desa/kelurahan  ini yang berjudi,1,Ada sebagian besar,R706,Penduduk desa/kelurahan  ini yang berjudi,1,Ada sebagian besar,match
+R706,Penduduk desa/kelurahan  ini yang berjudi,2,Ada sebagian kecil,R706,Penduduk desa/kelurahan  ini yang berjudi,2,Ada sebagian kecil,match
+R706,Penduduk desa/kelurahan  ini yang berjudi,3,Tidak ada,R706,Penduduk desa/kelurahan  ini yang berjudi,3,Tidak ada,match
+R707,Penduduk desa/kelurahan ini berasal lebih dari satu suku/etnis,1,Ya,R707,Penduduk desa/kelurahan ini berasal lebih dari satu suku/etnis,1,Ya,match
+R707,Penduduk desa/kelurahan ini berasal lebih dari satu suku/etnis,2,Tidak,R707,Penduduk desa/kelurahan ini berasal lebih dari satu suku/etnis,2,Tidak,match
+R708,Suku/etnis mayoritas penduduk di desa/kelurahan ini,-,-,R708,Suku/etnis mayoritas penduduk di desa/kelurahan ini,-,-,match
+R801A,a. Gedung bioskop,1,Ada,R801A,a. Gedung bioskop,1,Ada,match
+R801A,a. Gedung bioskop,2,Tidak,R801A,a. Gedung bioskop,2,Tidak,match
+R801B,b. Jarak ke gedung bioskop terdekat,-,-,R801B,b. Jarak ke gedung bioskop terdekat,-,-,match
+R802A,a. Pub/diskotik/tempat karaoke,1,Ada,R802A,a. Pub/diskotik/tempat karaoke,1,Ada,match
+R802A,a. Pub/diskotik/tempat karaoke,2,Tidak,R802A,a. Pub/diskotik/tempat karaoke,2,Tidak,match
+R802B,b. Jarak ke pub/diskotik/tempat karaoke terdekat:,-,-,R802B,b. Jarak ke pub/diskotik/tempat karaoke terdekat:,-,-,match
+R803A_2,Lapangan : a. Sepak bola,1,Ada,R803A_2,Lapangan : a. Sepak bola,1,Ada,match
+R803A_2,Lapangan : a. Sepak bola,2,Tidak,R803A_2,Lapangan : a. Sepak bola,2,Tidak,match
+R803A_3,Kelompok kegiatan : a. Sepak bola,1,Ada,R803A_3,Kelompok kegiatan : a. Sepak bola,1,Ada,match
+R803A_3,Kelompok kegiatan : a. Sepak bola,2,Tidak,R803A_3,Kelompok kegiatan : a. Sepak bola,2,Tidak,match
+R803B_2,Lapangan : b. Bola voli,3,Ada,R803B_2,Lapangan : b. Bola voli,3,Ada,match
+R803B_2,Lapangan : b. Bola voli,4,Tidak,R803B_2,Lapangan : b. Bola voli,4,Tidak,match
+R803B_3,Kelompok kegiatan : b. Bola voli,3,Ada,R803B_3,Kelompok kegiatan : b. Bola voli,3,Ada,match
+R803B_3,Kelompok kegiatan : b. Bola voli,4,Tidak,R803B_3,Kelompok kegiatan : b. Bola voli,4,Tidak,match
+R803C_2,Lapangan : c. Bulu tangkis,5,Ada,R803C_2,Lapangan : c. Bulu tangkis,5,Ada,match
+R803C_2,Lapangan : c. Bulu tangkis,6,Tidak,R803C_2,Lapangan : c. Bulu tangkis,6,Tidak,match
+R803C_3,Kelompok kegiatan : c. Bulu tangkis,5,Ada,R803C_3,Kelompok kegiatan : c. Bulu tangkis,5,Ada,match
+R803C_3,Kelompok kegiatan : c. Bulu tangkis,6,Tidak,R803C_3,Kelompok kegiatan : c. Bulu tangkis,6,Tidak,match
+R803D_2,Lapangan : d. Bola basket,7,Ada,R803D_2,Lapangan : d. Bola basket,7,Ada,match
+R803D_2,Lapangan : d. Bola basket,8,Tidak,R803D_2,Lapangan : d. Bola basket,8,Tidak,match
+R803D_3,Kelompok kegiatan : d. Bola basket,7,Ada,R803D_3,Kelompok kegiatan : d. Bola basket,7,Ada,match
+R803D_3,Kelompok kegiatan : d. Bola basket,8,Tidak,R803D_3,Kelompok kegiatan : d. Bola basket,8,Tidak,match
+R803E_2,Lapangan : e. Tenis (lapangan),1,Ada,R803E_2,Lapangan : e. Tenis (lapangan),1,Ada,match
+R803E_2,Lapangan : e. Tenis (lapangan),2,Tidak,R803E_2,Lapangan : e. Tenis (lapangan),2,Tidak,match
+R803E_3,Kelompok kegiatan : e. Tenis (lapangan),1,Ada,R803E_3,Kelompok kegiatan : e. Tenis (lapangan),1,Ada,match
+R803E_3,Kelompok kegiatan : e. Tenis (lapangan),2,Tidak,R803E_3,Kelompok kegiatan : e. Tenis (lapangan),2,Tidak,match
+R803F_2,Lapangan : f. Renang,3,Ada,R803F_2,Lapangan : f. Renang,3,Ada,match
+R803F_2,Lapangan : f. Renang,4,Tidak,R803F_2,Lapangan : f. Renang,4,Tidak,match
+R803F_3,Kelompok kegiatan : f. Renang,3,Ada,R803F_3,Kelompok kegiatan : f. Renang,3,Ada,match
+R803F_3,Kelompok kegiatan : f. Renang,4,Tidak,R803F_3,Kelompok kegiatan : f. Renang,4,Tidak,match
+R803G,Kelompok kegiatan : g. Tenis (meja),5,Ada,R803G,Kelompok kegiatan : g. Tenis (meja),5,Ada,match
+R803G,Kelompok kegiatan : g. Tenis (meja),6,Tidak,R803G,Kelompok kegiatan : g. Tenis (meja),6,Tidak,match
+R803H,"Kelompok kegiatan : h. Bela diri (pencak silat, karate, dll)",7,Ada,R803H,"Kelompok kegiatan : h. Bela diri (pencak silat, karate, dll)",7,Ada,match
+R803H,"Kelompok kegiatan : h. Bela diri (pencak silat, karate, dll)",8,Tidak,R803H,"Kelompok kegiatan : h. Bela diri (pencak silat, karate, dll)",8,Tidak,match
+R901A,a. Lalu lintas dari dan ke desa/kelurahan melalui,1,Darat,R901A,a. Lalu lintas dari dan ke desa/kelurahan melalui,1,Darat,match
+R901A,a. Lalu lintas dari dan ke desa/kelurahan melalui,2,Air,R901A,a. Lalu lintas dari dan ke desa/kelurahan melalui,2,Air,match
+R901A,a. Lalu lintas dari dan ke desa/kelurahan melalui,3,Darat dan Air,R901A,a. Lalu lintas dari dan ke desa/kelurahan melalui,3,Darat dan Air,match
+R901B1,b1. Jenis permukaan jalan yang terluas,1,Aspal/Beton,R901B1,b1. Jenis permukaan jalan yang terluas,1,Aspal/Beton,match
+R901B1,b1. Jenis permukaan jalan yang terluas,2,"Diperkeras (kerikil, batu, dsb)",R901B1,b1. Jenis permukaan jalan yang terluas,2,"Diperkeras (kerikil, batu, dsb)",match
+R901B1,b1. Jenis permukaan jalan yang terluas,3,Tanah,R901B1,b1. Jenis permukaan jalan yang terluas,3,Tanah,match
+R901B1,b1. Jenis permukaan jalan yang terluas,4,Lainnya __________,R901B1,b1. Jenis permukaan jalan yang terluas,4,Lainnya __________,match
+R901B2,b2. Apakah dapat dilalui kendaraan bermotor roda 4 atau lebih sepanjang tahun,1,Ya,R901B2,b2. Apakah dapat dilalui kendaraan bermotor roda 4 atau lebih sepanjang tahun,1,Ya,match
+R901B2,b2. Apakah dapat dilalui kendaraan bermotor roda 4 atau lebih sepanjang tahun,2,Tidak,R901B2,b2. Apakah dapat dilalui kendaraan bermotor roda 4 atau lebih sepanjang tahun,2,Tidak,match
+R903,Jumlah keluarga yang berlangganan telepon kabel,-,-,R903,Jumlah keluarga yang berlangganan telepon kabel,-,-,match
+R904,Telepon umum koin/kartu yang masih aktif,1,Ada,R904,Telepon umum koin/kartu yang masih aktif,1,Ada,match
+R904,Telepon umum koin/kartu yang masih aktif,2,Tidak,R904,Telepon umum koin/kartu yang masih aktif,2,Tidak,match
+R905,Wartel/Kiospon/Warpostel/Warparpostel,1,Ada,R905,Wartel/Kiospon/Warpostel/Warparpostel,1,Ada,match
+R905,Wartel/Kiospon/Warpostel/Warparpostel,2,Tidak,R905,Wartel/Kiospon/Warpostel/Warparpostel,2,Tidak,match
+R906,Warung Internet (Warnet),1,Ada,R906,Warung Internet (Warnet),1,Ada,match
+R906,Warung Internet (Warnet),2,Tidak,R906,Warung Internet (Warnet),2,Tidak,match
+R907A,a. Kantor Pos/Pos Pembantu/Rumah Pos,1,Ada,R907A,a. Kantor Pos/Pos Pembantu/Rumah Pos,1,Ada,match
+R907A,a. Kantor Pos/Pos Pembantu/Rumah Pos,2,Tidak,R907A,a. Kantor Pos/Pos Pembantu/Rumah Pos,2,Tidak,match
+R907B,b. Jarak ke Kantor Pos terdekat,-,-,R907B,b. Jarak ke Kantor Pos terdekat,-,-,match
+R908,Pos Keliling,1,Ada,R908,Pos Keliling,1,Ada,match
+R908,Pos Keliling,2,Tidak,R908,Pos Keliling,2,Tidak,match
+R909A,a. TVRI,1,Bisa,R909A,a. TVRI,1,Bisa,match
+R909A,a. TVRI,2,Tidak,R909A,a. TVRI,2,Tidak,match
+R909B,b. TV Swasta Nasional,1,Bisa,R909B,b. TV Swasta Nasional,1,Bisa,match
+R909B,b. TV Swasta Nasional,2,Tidak,R909B,b. TV Swasta Nasional,2,Tidak,match
+R909C,c. TV Luar Negeri,1,Bisa,R909C,c. TV Luar Negeri,1,Bisa,match
+R909C,c. TV Luar Negeri,2,Tidak,R909C,c. TV Luar Negeri,2,Tidak,match
+R909D,d. TV Lokal,1,Bisa,R909D,d. TV Lokal,1,Bisa,match
+R909D,d. TV Lokal,2,Tidak,R909D,d. TV Lokal,2,Tidak,match
+R910,Sinyal telepon genggam/hand phone/mobile phone di desa/kelurahan ini,1,Ada kuat,R910,Sinyal telepon genggam/hand phone/mobile phone di desa/kelurahan ini,1,Ada kuat,match
+R910,Sinyal telepon genggam/hand phone/mobile phone di desa/kelurahan ini,2,Ada lemah,R910,Sinyal telepon genggam/hand phone/mobile phone di desa/kelurahan ini,2,Ada lemah,match
+R910,Sinyal telepon genggam/hand phone/mobile phone di desa/kelurahan ini,3,Tidak ada,R910,Sinyal telepon genggam/hand phone/mobile phone di desa/kelurahan ini,3,Tidak ada,match
+R1002A,a. Lahan pertanian sawah,-,-,R1002A,a. Lahan pertanian sawah,-,-,match
+R1002A1,a1. Lahan berpengairan teknis,-,-,R1002A1,a1. Lahan berpengairan teknis,-,-,match
+R1002A2,a2. Lahan berpengairan nonteknis,-,-,R1002A2,a2. Lahan berpengairan nonteknis,-,-,match
+R1002A3,a3. Lahan tidak berpengairan,-,-,R1002A3,a3. Lahan tidak berpengairan,-,-,match
+R1002B,b. Lahan pertanian bukan sawah,-,-,R1002B,b. Lahan pertanian bukan sawah,-,-,match
+R1002C,c. Lahan nonpertanian,-,-,R1002C,c. Lahan nonpertanian,-,-,match
+R1003A,Perubahan/konversi lahan pertanian menjadi lahan nonpertanian didesa/kelurahan ini 3 tahun terakhir,1,Ada,R1003A,Perubahan/konversi lahan pertanian menjadi lahan nonpertanian didesa/kelurahan ini 3 tahun terakhir,1,Ada,match
+R1003A,Perubahan/konversi lahan pertanian menjadi lahan nonpertanian didesa/kelurahan ini 3 tahun terakhir,2,Tidak,R1003A,Perubahan/konversi lahan pertanian menjadi lahan nonpertanian didesa/kelurahan ini 3 tahun terakhir,2,Tidak,match
+R1003B,Konversi terjadi dari lahan pertanian ke,1,Perumahan,R1003B,Konversi terjadi dari lahan pertanian ke,1,Perumahan,match
+R1003B,Konversi terjadi dari lahan pertanian ke,2,Industri,R1003B,Konversi terjadi dari lahan pertanian ke,2,Industri,match
+R1003B,Konversi terjadi dari lahan pertanian ke,3,Pertokoan,R1003B,Konversi terjadi dari lahan pertanian ke,3,Pertokoan,match
+R1003B,Konversi terjadi dari lahan pertanian ke,4,Perkantoran,R1003B,Konversi terjadi dari lahan pertanian ke,4,Perkantoran,match
+R1003B,Konversi terjadi dari lahan pertanian ke,5,Lainnya,R1003B,Konversi terjadi dari lahan pertanian ke,5,Lainnya,match
+R1101A,a. Milik KUD,-,-,R1101A,a. Milik KUD,-,-,match
+R1101B,b. Milik Non-KUD,-,-,R1101B,b. Milik Non-KUD,-,-,match
+R1102A,a. Industri dari kulit,-,-,R1102A,a. Industri dari kulit,-,-,match
+R1102B,b. Industri dari kayu,-,-,R1102B,b. Industri dari kayu,-,-,match
+R1102C,c. Industri dari logam/logam mulia,-,-,R1102C,c. Industri dari logam/logam mulia,-,-,match
+R1102D,d. Industri anyaman,-,-,R1102D,d. Industri anyaman,-,-,match
+R1102E,e. Industri gerabah/keramik,-,-,R1102E,e. Industri gerabah/keramik,-,-,match
+R1102F,f. Industri dari kain/tenun,-,-,R1102F,f. Industri dari kain/tenun,-,-,match
+R1102G,g. Industri makanan dan minuman,-,-,R1102G,g. Industri makanan dan minuman,-,-,match
+R1102H,h. Lainnya,-,-,R1102H,h. Lainnya,-,-,match
+R1103A,a. Kelompok pertokoan:,1,Ada,R1103A,a. Kelompok pertokoan:,1,Ada,match
+R1103A,a. Kelompok pertokoan:,2,Tidak,R1103A,a. Kelompok pertokoan:,2,Tidak,match
+R1103B,b. Jarak  ke kelompok pertokoan terdekat:,-,-,R1103B,b. Jarak  ke kelompok pertokoan terdekat:,-,-,match
+R1104A,a. Pasar dengan bangunan permanen/semi permanen:,1,Ada,R1104A,a. Pasar dengan bangunan permanen/semi permanen:,1,Ada,match
+R1104A,a. Pasar dengan bangunan permanen/semi permanen:,2,Tidak,R1104A,a. Pasar dengan bangunan permanen/semi permanen:,2,Tidak,match
+R1104B,b. Jarak  ke pasar terdekat:,-,-,R1104B,b. Jarak  ke pasar terdekat:,-,-,match
+R1105,Pasar tanpa bangunan,-,-,R1105,Pasar tanpa bangunan,-,-,match
+R1106,Mini market,-,-,R1106,Mini market,-,-,match
+R1107,Restoran/rumah makan,-,-,R1107,Restoran/rumah makan,-,-,match
+R1108,Warung/kedai makanan minuman,-,-,R1108,Warung/kedai makanan minuman,-,-,match
+R1109,Toko/warung kelontong,-,-,R1109,Toko/warung kelontong,-,-,match
+R1110,Hotel,-,-,R1110,Hotel,-,-,match
+R1111,Penginapan(hostel/motel/losmen/wisma),-,-,R1111,Penginapan(hostel/motel/losmen/wisma),-,-,match
+R1112,Jumlah Koperasi:,-,-,R1112,Jumlah Koperasi:,-,-,match
+R1112A,a. Koperasi Unit Desa,-,-,R1112A,a. Koperasi Unit Desa,-,-,match
+R1112B,b. Koperasi Industri Kecil dan Kerajinan Rakyat (Kopinkra),-,-,R1112B,b. Koperasi Industri Kecil dan Kerajinan Rakyat (Kopinkra),-,-,match
+R1112C,c. Koperasi Simpan Pinjam,-,-,R1112C,c. Koperasi Simpan Pinjam,-,-,match
+R1112D,d. Koperasi Non-KUD lainnya,-,-,R1112D,d. Koperasi Non-KUD lainnya,-,-,match
+R1113A,a. Kredit Ketahanan Pangan (KKP),1,Ada,R1113A,a. Kredit Ketahanan Pangan (KKP),1,Ada,match
+R1113A,a. Kredit Ketahanan Pangan (KKP),2,Tidak,R1113A,a. Kredit Ketahanan Pangan (KKP),2,Tidak,match
+R1113B,b. Kredit Usaha Kecil (KUK),3,Ada,R1113B,b. Kredit Usaha Kecil (KUK),3,Ada,match
+R1113B,b. Kredit Usaha Kecil (KUK),4,Tidak,R1113B,b. Kredit Usaha Kecil (KUK),4,Tidak,match
+R1113C,c. Kredit Pemilikan Rumah (KPR),5,Ada,R1113C,c. Kredit Pemilikan Rumah (KPR),5,Ada,match
+R1113C,c. Kredit Pemilikan Rumah (KPR),6,Tidak,R1113C,c. Kredit Pemilikan Rumah (KPR),6,Tidak,match
+R1113D,d. Kredit lainnya,7,Ada,R1113D,d. Kredit lainnya,7,Ada,match
+R1113D,d. Kredit lainnya,8,Tidak,R1113D,d. Kredit lainnya,8,Tidak,match
+R1201A,a. Apakah pernah terjadi perkelahian massal selama setahun terakhir?,1,Ya,R1201A,a. Apakah pernah terjadi perkelahian massal selama setahun terakhir?,1,Ya,match
+R1201A,a. Apakah pernah terjadi perkelahian massal selama setahun terakhir?,2,Tidak,R1201A,a. Apakah pernah terjadi perkelahian massal selama setahun terakhir?,2,Tidak,match
+R1201BA_2,Jumlah Kejadian : a. Perkelahian antar kelompok warga,-,-,R1201BA_2,Jumlah Kejadian : a. Perkelahian antar kelompok warga,-,-,match
+R1201BA_3,Korban meninggal : a. Perkelahian antar kelompok warga,-,-,R1201BA_3,Korban meninggal : a. Perkelahian antar kelompok warga,-,-,match
+R1201BA_4,Korban luka-luka : a. Perkelahian antar kelompok warga,-,-,R1201BA_4,Korban luka-luka : a. Perkelahian antar kelompok warga,-,-,match
+R1201BA_5,Korban material (Jutaan Rp) : a. Perkelahian antar kelompok warga,-,-,R1201BA_5,Korban material (Jutaan Rp) : a. Perkelahian antar kelompok warga,-,-,match
+R1201BA_6,Penyebab utama (kode) : a. Perkelahian antar kelompok warga,-,-,R1201BA_6,Penyebab utama (kode) : a. Perkelahian antar kelompok warga,-,-,match
+R1201BB_2,Jumlah Kejadian : b. Perkelahian warga antar desa/kelurahan,-,-,R1201BB_2,Jumlah Kejadian : b. Perkelahian warga antar desa/kelurahan,-,-,match
+R1201BB_3,Korban meninggal : b. Perkelahian warga antar desa/kelurahan,-,-,R1201BB_3,Korban meninggal : b. Perkelahian warga antar desa/kelurahan,-,-,match
+R1201BB_4,Korban luka-luka : b. Perkelahian warga antar desa/kelurahan,-,-,R1201BB_4,Korban luka-luka : b. Perkelahian warga antar desa/kelurahan,-,-,match
+R1201BB_5,Korban material (Jutaan Rp) : b. Perkelahian warga antar desa/kelurahan,-,-,R1201BB_5,Korban material (Jutaan Rp) : b. Perkelahian warga antar desa/kelurahan,-,-,match
+R1201BB_6,Penyebab utama (kode) : b. Perkelahian warga antar desa/kelurahan,-,-,R1201BB_6,Penyebab utama (kode) : b. Perkelahian warga antar desa/kelurahan,-,-,match
+R1201BC_2,Jumlah Kejadian : c. Perkelahian warga dengan aparat keamanan,-,-,R1201BC_2,Jumlah Kejadian : c. Perkelahian warga dengan aparat keamanan,-,-,match
+R1201BC_3,Korban meninggal : c. Perkelahian warga dengan aparat keamanan,-,-,R1201BC_3,Korban meninggal : c. Perkelahian warga dengan aparat keamanan,-,-,match
+R1201BC_4,Korban luka-luka : c. Perkelahian warga dengan aparat keamanan,-,-,R1201BC_4,Korban luka-luka : c. Perkelahian warga dengan aparat keamanan,-,-,match
+R1201BC_5,Korban material (Jutaan Rp) : c. Perkelahian warga dengan aparat keamanan,-,-,R1201BC_5,Korban material (Jutaan Rp) : c. Perkelahian warga dengan aparat keamanan,-,-,match
+R1201BC_6,Penyebab utama (kode) : c. Perkelahian warga dengan aparat keamanan,-,-,R1201BC_6,Penyebab utama (kode) : c. Perkelahian warga dengan aparat keamanan,-,-,match
+R1201BD_2,Jumlah Kejadian : d. Perkelahian warga dengan aparat pemerintah,-,-,R1201BD_2,Jumlah Kejadian : d. Perkelahian warga dengan aparat pemerintah,-,-,match
+R1201BD_3,Korban meninggal : d. Perkelahian warga dengan aparat pemerintah,-,-,R1201BD_3,Korban meninggal : d. Perkelahian warga dengan aparat pemerintah,-,-,match
+R1201BD_4,Korban luka-luka : d. Perkelahian warga dengan aparat pemerintah,-,-,R1201BD_4,Korban luka-luka : d. Perkelahian warga dengan aparat pemerintah,-,-,match
+R1201BD_5,Korban material (Jutaan Rp) : d. Perkelahian warga dengan aparat pemerintah,-,-,R1201BD_5,Korban material (Jutaan Rp) : d. Perkelahian warga dengan aparat pemerintah,-,-,match
+R1201BD_6,Penyebab utama (kode) : d. Perkelahian warga dengan aparat pemerintah,-,-,R1201BD_6,Penyebab utama (kode) : d. Perkelahian warga dengan aparat pemerintah,-,-,match
+R1201BE_2,Jumlah Kejadian : e. Perkelahian antar pelajar/mahasiswa,-,-,R1201BE_2,Jumlah Kejadian : e. Perkelahian antar pelajar/mahasiswa,-,-,match
+R1201BE_3,Korban meninggal : e. Perkelahian antar pelajar/mahasiswa,-,-,R1201BE_3,Korban meninggal : e. Perkelahian antar pelajar/mahasiswa,-,-,match
+R1201BE_4,Korban luka-luka : e. Perkelahian antar pelajar/mahasiswa,-,-,R1201BE_4,Korban luka-luka : e. Perkelahian antar pelajar/mahasiswa,-,-,match
+R1201BE_5,Korban material (Jutaan Rp) : e. Perkelahian antar pelajar/mahasiswa,-,-,R1201BE_5,Korban material (Jutaan Rp) : e. Perkelahian antar pelajar/mahasiswa,-,-,match
+R1201BE_6,Penyebab utama (kode) : e. Perkelahian antar pelajar/mahasiswa,-,-,R1201BE_6,Penyebab utama (kode) : e. Perkelahian antar pelajar/mahasiswa,-,-,match
+R1201BF_2,Jumlah Kejadian : f. Perkelahian antar suku,-,-,R1201BF_2,Jumlah Kejadian : f. Perkelahian antar suku,-,-,match
+R1201BF_3,Korban meninggal : f. Perkelahian antar suku,-,-,R1201BF_3,Korban meninggal : f. Perkelahian antar suku,-,-,match
+R1201BF_4,Korban luka-luka : f. Perkelahian antar suku,-,-,R1201BF_4,Korban luka-luka : f. Perkelahian antar suku,-,-,match
+R1201BF_5,Korban material (Jutaan Rp) : f. Perkelahian antar suku,-,-,R1201BF_5,Korban material (Jutaan Rp) : f. Perkelahian antar suku,-,-,match
+R1201BF_6,Penyebab utama (kode) : f. Perkelahian antar suku,-,-,R1201BF_6,Penyebab utama (kode) : f. Perkelahian antar suku,-,-,match
+R1201BG_2,Jumlah Kejadian : g. Lainnya,-,-,R1201BG_2,Jumlah Kejadian : g. Lainnya,-,-,match
+R1201BG_3,Korban meninggal : g. Lainnya,-,-,R1201BG_3,Korban meninggal : g. Lainnya,-,-,match
+R1201BG_4,Korban luka-luka : g. Lainnya,-,-,R1201BG_4,Korban luka-luka : g. Lainnya,-,-,match
+R1201BG_5,Korban material (Jutaan Rp) : g. Lainnya,-,-,R1201BG_5,Korban material (Jutaan Rp) : g. Lainnya,-,-,match
+R1201BG_6,Penyebab utama (kode) : g. Lainnya,-,-,R1201BG_6,Penyebab utama (kode) : g. Lainnya,-,-,match
+R1202A,a. Jenis perkelahian massal yang paling sering terjadi apakah dapat diselesaikan?,1,Ya,R1202A,a. Jenis perkelahian massal yang paling sering terjadi apakah dapat diselesaikan?,1,Ya,match
+R1202A,a. Jenis perkelahian massal yang paling sering terjadi apakah dapat diselesaikan?,2,Tidak,R1202A,a. Jenis perkelahian massal yang paling sering terjadi apakah dapat diselesaikan?,2,Tidak,match
+R1202B,b. Inisiator/penengah penyelesaian masalah oleh,1,Tokoh Masyarakat,R1202B,b. Inisiator/penengah penyelesaian masalah oleh,1,Tokoh Masyarakat,match
+R1202B,b. Inisiator/penengah penyelesaian masalah oleh,2,Tokoh Agama,R1202B,b. Inisiator/penengah penyelesaian masalah oleh,2,Tokoh Agama,match
+R1202B,b. Inisiator/penengah penyelesaian masalah oleh,4,Aparat pemerintah,R1202B,b. Inisiator/penengah penyelesaian masalah oleh,4,Aparat pemerintah,match
+R1202B,b. Inisiator/penengah penyelesaian masalah oleh,8,Aparat keamanan,R1202B,b. Inisiator/penengah penyelesaian masalah oleh,8,Aparat keamanan,match
+R1202B,b. Inisiator/penengah penyelesaian masalah oleh,16,Lainnya,R1202B,b. Inisiator/penengah penyelesaian masalah oleh,16,Lainnya,match
+R1202B,b. Inisiator/penengah penyelesaian masalah oleh,0,Tidak ada,R1202B,b. Inisiator/penengah penyelesaian masalah oleh,0,Tidak ada,match
+R1203A01_2,Jenis Kejahatan : 01. Pencurian,1,Ada,R1203A01_2,Jenis Kejahatan : 01. Pencurian,1,Ada,match
+R1203A01_2,Jenis Kejahatan : 01. Pencurian,2,Tidak,R1203A01_2,Jenis Kejahatan : 01. Pencurian,2,Tidak,match
+R1203A01_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 01. Pencurian,1,Menurun,R1203A01_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 01. Pencurian,1,Menurun,match
+R1203A01_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 01. Pencurian,2,Sama saja,R1203A01_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 01. Pencurian,2,Sama saja,match
+R1203A01_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 01. Pencurian,3,Meningkat,R1203A01_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 01. Pencurian,3,Meningkat,match
+R1203A02_2,Jenis Kejahatan : 02. Perampokan,1,Ada,R1203A02_2,Jenis Kejahatan : 02. Perampokan,1,Ada,match
+R1203A02_2,Jenis Kejahatan : 02. Perampokan,2,Tidak,R1203A02_2,Jenis Kejahatan : 02. Perampokan,2,Tidak,match
+R1203A02_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 02. Perampokan,1,Menurun,R1203A02_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 02. Perampokan,1,Menurun,match
+R1203A02_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 02. Perampokan,2,Sama saja,R1203A02_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 02. Perampokan,2,Sama saja,match
+R1203A02_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 02. Perampokan,3,Meningkat,R1203A02_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 02. Perampokan,3,Meningkat,match
+R1203A03_2,Jenis Kejahatan : 03. Penjarahan,1,Ada,R1203A03_2,Jenis Kejahatan : 03. Penjarahan,1,Ada,match
+R1203A03_2,Jenis Kejahatan : 03. Penjarahan,2,Tidak,R1203A03_2,Jenis Kejahatan : 03. Penjarahan,2,Tidak,match
+R1203A03_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 03. Penjarahan,1,Menurun,R1203A03_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 03. Penjarahan,1,Menurun,match
+R1203A03_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 03. Penjarahan,2,Sama saja,R1203A03_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 03. Penjarahan,2,Sama saja,match
+R1203A03_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 03. Penjarahan,3,Meningkat,R1203A03_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 03. Penjarahan,3,Meningkat,match
+R1203A04_2,Jenis Kejahatan : 04. Penganiayaan/kekerasan,1,Ada,R1203A04_2,Jenis Kejahatan : 04. Penganiayaan/kekerasan,1,Ada,match
+R1203A04_2,Jenis Kejahatan : 04. Penganiayaan/kekerasan,2,Tidak,R1203A04_2,Jenis Kejahatan : 04. Penganiayaan/kekerasan,2,Tidak,match
+R1203A04_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 04. Penganiayaan/kekerasan,1,Menurun,R1203A04_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 04. Penganiayaan/kekerasan,1,Menurun,match
+R1203A04_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 04. Penganiayaan/kekerasan,2,Sama saja,R1203A04_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 04. Penganiayaan/kekerasan,2,Sama saja,match
+R1203A04_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 04. Penganiayaan/kekerasan,3,Meningkat,R1203A04_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 04. Penganiayaan/kekerasan,3,Meningkat,match
+R1203A05_2,Jenis Kejahatan : 05. Pembakaran,1,Ada,R1203A05_2,Jenis Kejahatan : 05. Pembakaran,1,Ada,match
+R1203A05_2,Jenis Kejahatan : 05. Pembakaran,2,Tidak,R1203A05_2,Jenis Kejahatan : 05. Pembakaran,2,Tidak,match
+R1203A05_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 05. Pembakaran,1,Menurun,R1203A05_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 05. Pembakaran,1,Menurun,match
+R1203A05_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 05. Pembakaran,2,Sama saja,R1203A05_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 05. Pembakaran,2,Sama saja,match
+R1203A05_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 05. Pembakaran,3,Meningkat,R1203A05_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 05. Pembakaran,3,Meningkat,match
+R1203A06_2,Jenis Kejahatan : 06. Perkosaan,1,Ada,R1203A06_2,Jenis Kejahatan : 06. Perkosaan,1,Ada,match
+R1203A06_2,Jenis Kejahatan : 06. Perkosaan,2,Tidak,R1203A06_2,Jenis Kejahatan : 06. Perkosaan,2,Tidak,match
+R1203A06_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 06. Perkosaan,1,Menurun,R1203A06_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 06. Perkosaan,1,Menurun,match
+R1203A06_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 06. Perkosaan,2,Sama saja,R1203A06_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 06. Perkosaan,2,Sama saja,match
+R1203A06_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 06. Perkosaan,3,Meningkat,R1203A06_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 06. Perkosaan,3,Meningkat,match
+R1203A07_2,Jenis Kejahatan : 07. Penyalahgunaan narkoba,1,Ada,R1203A07_2,Jenis Kejahatan : 07. Penyalahgunaan narkoba,1,Ada,match
+R1203A07_2,Jenis Kejahatan : 07. Penyalahgunaan narkoba,2,Tidak,R1203A07_2,Jenis Kejahatan : 07. Penyalahgunaan narkoba,2,Tidak,match
+R1203A07_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 07. Penyalahgunaan narkoba,1,Menurun,R1203A07_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 07. Penyalahgunaan narkoba,1,Menurun,match
+R1203A07_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 07. Penyalahgunaan narkoba,2,Sama saja,R1203A07_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 07. Penyalahgunaan narkoba,2,Sama saja,match
+R1203A07_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 07. Penyalahgunaan narkoba,3,Meningkat,R1203A07_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 07. Penyalahgunaan narkoba,3,Meningkat,match
+R1203A08_2,Jenis Kejahatan : 08. Peredaran gelap narkoba,1,Ada,R1203A08_2,Jenis Kejahatan : 08. Peredaran gelap narkoba,1,Ada,match
+R1203A08_2,Jenis Kejahatan : 08. Peredaran gelap narkoba,2,Tidak,R1203A08_2,Jenis Kejahatan : 08. Peredaran gelap narkoba,2,Tidak,match
+R1203A08_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 08. Peredaran gelap narkoba,1,Menurun,R1203A08_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 08. Peredaran gelap narkoba,1,Menurun,match
+R1203A08_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 08. Peredaran gelap narkoba,2,Sama saja,R1203A08_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 08. Peredaran gelap narkoba,2,Sama saja,match
+R1203A08_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 08. Peredaran gelap narkoba,3,Meningkat,R1203A08_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 08. Peredaran gelap narkoba,3,Meningkat,match
+R1203A09_2,Jenis Kejahatan : 09. Pembunuhan,1,Ada,R1203A09_2,Jenis Kejahatan : 09. Pembunuhan,1,Ada,match
+R1203A09_2,Jenis Kejahatan : 09. Pembunuhan,2,Tidak,R1203A09_2,Jenis Kejahatan : 09. Pembunuhan,2,Tidak,match
+R1203A09_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 09. Pembunuhan,1,Menurun,R1203A09_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 09. Pembunuhan,1,Menurun,match
+R1203A09_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 09. Pembunuhan,2,Sama saja,R1203A09_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 09. Pembunuhan,2,Sama saja,match
+R1203A09_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 09. Pembunuhan,3,Meningkat,R1203A09_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 09. Pembunuhan,3,Meningkat,match
+R1203A10_2,Jenis Kejahatan : 10. Perdagangan orang (trafficking),1,Ada,R1203A10_2,Jenis Kejahatan : 10. Perdagangan orang (trafficking),1,Ada,match
+R1203A10_2,Jenis Kejahatan : 10. Perdagangan orang (trafficking),2,Tidak,R1203A10_2,Jenis Kejahatan : 10. Perdagangan orang (trafficking),2,Tidak,match
+R1203A10_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 10. Perdagangan orang (trafficking),1,Menurun,R1203A10_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 10. Perdagangan orang (trafficking),1,Menurun,match
+R1203A10_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 10. Perdagangan orang (trafficking),2,Sama saja,R1203A10_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 10. Perdagangan orang (trafficking),2,Sama saja,match
+R1203A10_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 10. Perdagangan orang (trafficking),3,Meningkat,R1203A10_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 10. Perdagangan orang (trafficking),3,Meningkat,match
+R1203A11_2,Jenis Kejahatan : 11. Lainnya,1,Ada,R1203A11_2,Jenis Kejahatan : 11. Lainnya,1,Ada,match
+R1203A11_2,Jenis Kejahatan : 11. Lainnya,2,Tidak,R1203A11_2,Jenis Kejahatan : 11. Lainnya,2,Tidak,match
+R1203A11_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 11. Lainnya,1,Menurun,R1203A11_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 11. Lainnya,1,Menurun,match
+R1203A11_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 11. Lainnya,2,Sama saja,R1203A11_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 11. Lainnya,2,Sama saja,match
+R1203A11_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 11. Lainnya,3,Meningkat,R1203A11_3,Kecenderungan kejahatan dibanding satu tahun yang lalu : 11. Lainnya,3,Meningkat,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,1,Pencurian,R1203B,Jenis kejahatan yang paling banyak terjadi,1,Pencurian,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,2,Perampokan,R1203B,Jenis kejahatan yang paling banyak terjadi,2,Perampokan,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,3,Penjarahan,R1203B,Jenis kejahatan yang paling banyak terjadi,3,Penjarahan,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,4,Penganiayaan/kekerasan,R1203B,Jenis kejahatan yang paling banyak terjadi,4,Penganiayaan/kekerasan,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,5,Pembakaran,R1203B,Jenis kejahatan yang paling banyak terjadi,5,Pembakaran,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,6,Perkosaan,R1203B,Jenis kejahatan yang paling banyak terjadi,6,Perkosaan,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,7,Penyalahgunaan narkoba,R1203B,Jenis kejahatan yang paling banyak terjadi,7,Penyalahgunaan narkoba,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,9,Pembunuhan,R1203B,Jenis kejahatan yang paling banyak terjadi,9,Pembunuhan,match
+R1203B,Jenis kejahatan yang paling banyak terjadi,10,Perdagangan orang (trafficking),R1203B,Jenis kejahatan yang paling banyak terjadi,10,Perdagangan orang (trafficking),match
+R1203B,Jenis kejahatan yang paling banyak terjadi,11,Lainnya,R1203B,Jenis kejahatan yang paling banyak terjadi,11,Lainnya,match
+R1204,Apakah di desa/kelurahan ini ada agen yang beroperasi mencari TKW,1,Ada,R1204,Apakah di desa/kelurahan ini ada agen yang beroperasi mencari TKW,1,Ada,match
+R1204,Apakah di desa/kelurahan ini ada agen yang beroperasi mencari TKW,2,Tidak,R1204,Apakah di desa/kelurahan ini ada agen yang beroperasi mencari TKW,2,Tidak,match
+R1205,Lokalisasi/Lokasi Prostitusi/Tempat Mangkal PSK,1,Ada,R1205,Lokalisasi/Lokasi Prostitusi/Tempat Mangkal PSK,1,Ada,match
+R1205,Lokalisasi/Lokasi Prostitusi/Tempat Mangkal PSK,2,Tidak,R1205,Lokalisasi/Lokasi Prostitusi/Tempat Mangkal PSK,2,Tidak,match
+R1206A,a. Membangun pos keamanan lingkungan,1,Ada,R1206A,a. Membangun pos keamanan lingkungan,1,Ada,match
+R1206A,a. Membangun pos keamanan lingkungan,2,Tidak,R1206A,a. Membangun pos keamanan lingkungan,2,Tidak,match
+R1206B,b. Membentuk regu keamanan lingkungan,3,Ada,R1206B,b. Membentuk regu keamanan lingkungan,3,Ada,match
+R1206B,b. Membentuk regu keamanan lingkungan,4,Tidak,R1206B,b. Membentuk regu keamanan lingkungan,4,Tidak,match
+R1206C,c. Menambah jumlah anggota hansip/linmas,5,Ada,R1206C,c. Menambah jumlah anggota hansip/linmas,5,Ada,match
+R1206C,c. Menambah jumlah anggota hansip/linmas,6,Tidak,R1206C,c. Menambah jumlah anggota hansip/linmas,6,Tidak,match
+R1206D,d. Memeriksa setiap warga dari luar desa yang masuk,7,Ada,R1206D,d. Memeriksa setiap warga dari luar desa yang masuk,7,Ada,match
+R1206D,d. Memeriksa setiap warga dari luar desa yang masuk,8,Tidak,R1206D,d. Memeriksa setiap warga dari luar desa yang masuk,8,Tidak,match
+R1206E,e. Lainnya,1,Ada,R1206E,e. Lainnya,1,Ada,match
+R1206E,e. Lainnya,2,Tidak,R1206E,e. Lainnya,2,Tidak,match
+R1207A,Sarana keamanan lingkungan (kamling) : a. Pos hansip/kamling,1,Ada,R1207A,Sarana keamanan lingkungan (kamling) : a. Pos hansip/kamling,1,Ada,match
+R1207A,Sarana keamanan lingkungan (kamling) : a. Pos hansip/kamling,2,Tidak,R1207A,Sarana keamanan lingkungan (kamling) : a. Pos hansip/kamling,2,Tidak,match
+R1207B_2,Sarana keamanan lingkungan (kamling) : b. Pos Polisi,1,Ada,R1207B_2,Sarana keamanan lingkungan (kamling) : b. Pos Polisi,1,Ada,match
+R1207B_2,Sarana keamanan lingkungan (kamling) : b. Pos Polisi,2,Tidak,R1207B_2,Sarana keamanan lingkungan (kamling) : b. Pos Polisi,2,Tidak,match
+R1207B_3,Jarak terdekat (km) : b. Pos Polisi,-,-,R1207B_3,Jarak terdekat (km) : b. Pos Polisi,-,-,match
+R1207B_4,Kemudahan untuk mencapai : b. Pos Polisi,1,Sangat mudah,R1207B_4,Kemudahan untuk mencapai : b. Pos Polisi,1,Sangat mudah,match
+R1207B_4,Kemudahan untuk mencapai : b. Pos Polisi,2,Mudah,R1207B_4,Kemudahan untuk mencapai : b. Pos Polisi,2,Mudah,match
+R1207B_4,Kemudahan untuk mencapai : b. Pos Polisi,3,Sulit,R1207B_4,Kemudahan untuk mencapai : b. Pos Polisi,3,Sulit,match
+R1207B_4,Kemudahan untuk mencapai : b. Pos Polisi,4,Sangat sulit,R1207B_4,Kemudahan untuk mencapai : b. Pos Polisi,4,Sangat sulit,match
+R1208A,a. Jumlah anggota hansip/linmas,-,-,R1208A,a. Jumlah anggota hansip/linmas,-,-,match
+R1208B,b. Jumlah polisi Bantuan Bintara Desa (Babinsa),-,-,R1208B,b. Jumlah polisi Bantuan Bintara Desa (Babinsa),-,-,match
+R1208C,c. Jumlah Polisi Pelayanan Masyarakat,-,-,R1208C,c. Jumlah Polisi Pelayanan Masyarakat,-,-,match
+R13011_2,Bentuk PAD/PAN/bantuan : 1. PAD/PAN,1,Uang,R13011_2,Bentuk PAD/PAN/bantuan : 1. PAD/PAN,1,Uang,match
+R13011_2,Bentuk PAD/PAN/bantuan : 1. PAD/PAN,2,Barang & jasa,R13011_2,Bentuk PAD/PAN/bantuan : 1. PAD/PAN,2,Barang & jasa,match
+R13011_2,Bentuk PAD/PAN/bantuan : 1. PAD/PAN,3,"Uang, barang dan jasa",R13011_2,Bentuk PAD/PAN/bantuan : 1. PAD/PAN,3,"Uang, barang dan jasa",match
+R13011_2,Bentuk PAD/PAN/bantuan : 1. PAD/PAN,4,Tidak ada,R13011_2,Bentuk PAD/PAN/bantuan : 1. PAD/PAN,4,Tidak ada,match
+R13011_3,Nilai PAD/PAN/bantuan : 1. PAD/PAN,-,-,R13011_3,Nilai PAD/PAN/bantuan : 1. PAD/PAN,-,-,match
+R13011_4,Penggunaan : 1. PAD/PAN,1,Pembiayaan rutin,R13011_4,Penggunaan : 1. PAD/PAN,1,Pembiayaan rutin,match
+R13011_4,Penggunaan : 1. PAD/PAN,2,Kegiatan posyandu,R13011_4,Penggunaan : 1. PAD/PAN,2,Kegiatan posyandu,match
+R13011_4,Penggunaan : 1. PAD/PAN,4,Kegiatan olahraga,R13011_4,Penggunaan : 1. PAD/PAN,4,Kegiatan olahraga,match
+R13011_4,Penggunaan : 1. PAD/PAN,8,Pembangunan tempat ibadah,R13011_4,Penggunaan : 1. PAD/PAN,8,Pembangunan tempat ibadah,match
+R13011_4,Penggunaan : 1. PAD/PAN,16,Pembangunan jalan/jembatan,R13011_4,Penggunaan : 1. PAD/PAN,16,Pembangunan jalan/jembatan,match
+R13011_4,Penggunaan : 1. PAD/PAN,32,Pembangunan fisik lainnya,R13011_4,Penggunaan : 1. PAD/PAN,32,Pembangunan fisik lainnya,match
+R13011_4,Penggunaan : 1. PAD/PAN,64,Pemberdayaan ekonomi masyarakat desa,R13011_4,Penggunaan : 1. PAD/PAN,64,Pemberdayaan ekonomi masyarakat desa,match
+R13011_4,Penggunaan : 1. PAD/PAN,128,Lainnya,R13011_4,Penggunaan : 1. PAD/PAN,128,Lainnya,match
+R13012A_2,Bentuk PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,1,Uang,R13012A_2,Bentuk PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,1,Uang,match
+R13012A_2,Bentuk PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,2,Barang dan jasa,R13012A_2,Bentuk PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,2,Barang dan jasa,match
+R13012A_2,Bentuk PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,3,"Uang, barang dan jasa",R13012A_2,Bentuk PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,3,"Uang, barang dan jasa",match
+R13012A_2,Bentuk PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,4,Tidak ada,R13012A_2,Bentuk PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,4,Tidak ada,match
+R13012A_3,Nilai PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,-,-,R13012A_3,Nilai PAD/PAN/bantuan : 2a. Pemerintah Kabupaten/Kota,-,-,match
+R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,1,Pembiayaan rutin,R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,1,Pembiayaan rutin,match
+R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,2,Kegiatan posyandu,R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,2,Kegiatan posyandu,match
+R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,4,Kegiatan olahraga,R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,4,Kegiatan olahraga,match
+R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,8,Pembangunan tempat ibadah,R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,8,Pembangunan tempat ibadah,match
+R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,16,Pembangunan jalan/jembatan,R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,16,Pembangunan jalan/jembatan,match
+R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,32,Pembangunan fisik lainnya,R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,32,Pembangunan fisik lainnya,match
+R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,64,Pemberdayaan ekonomi masyarakat desa,R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,64,Pemberdayaan ekonomi masyarakat desa,match
+R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,128,Lainnya,R13012A_4,Penggunaan : 2a. Pemerintah Kabupaten/Kota,128,Lainnya,match
+R13012B_2,Bentuk PAD/PAN/bantuan : 2b. Pemerintah Provinsi,1,Uang,R13012B_2,Bentuk PAD/PAN/bantuan : 2b. Pemerintah Provinsi,1,Uang,match
+R13012B_2,Bentuk PAD/PAN/bantuan : 2b. Pemerintah Provinsi,2,Barang & jasa,R13012B_2,Bentuk PAD/PAN/bantuan : 2b. Pemerintah Provinsi,2,Barang & jasa,match
+R13012B_2,Bentuk PAD/PAN/bantuan : 2b. Pemerintah Provinsi,3,"Uang, barang dan jasa",R13012B_2,Bentuk PAD/PAN/bantuan : 2b. Pemerintah Provinsi,3,"Uang, barang dan jasa",match
+R13012B_2,Bentuk PAD/PAN/bantuan : 2b. Pemerintah Provinsi,4,Tidak ada,R13012B_2,Bentuk PAD/PAN/bantuan : 2b. Pemerintah Provinsi,4,Tidak ada,match
+R13012B_3,Nilai PAD/PAN/bantuan : 2b. Pemerintah Provinsi,-,-,R13012B_3,Nilai PAD/PAN/bantuan : 2b. Pemerintah Provinsi,-,-,match
+R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,1,Pembiayaan rutin,R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,1,Pembiayaan rutin,match
+R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,2,Kegiatan posyandu,R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,2,Kegiatan posyandu,match
+R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,4,Kegiatan olahraga,R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,4,Kegiatan olahraga,match
+R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,8,Pembangunan tempat ibadah,R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,8,Pembangunan tempat ibadah,match
+R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,16,Pembangunan jalan/jembatan,R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,16,Pembangunan jalan/jembatan,match
+R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,32,Pembangunan fisik lainnya,R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,32,Pembangunan fisik lainnya,match
+R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,64,Pemberdayaan ekonomi masyarakat desa,R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,64,Pemberdayaan ekonomi masyarakat desa,match
+R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,128,Lainnya,R13012B_4,Penggunaan : 2b. Pemerintah Provinsi,128,Lainnya,match
+R13012C_2,Bentuk PAD/PAN/bantuan : 2c. Pemerintah Pusat,1,Uang,R13012C_2,Bentuk PAD/PAN/bantuan : 2c. Pemerintah Pusat,1,Uang,match
+R13012C_2,Bentuk PAD/PAN/bantuan : 2c. Pemerintah Pusat,2,Barang & jasa,R13012C_2,Bentuk PAD/PAN/bantuan : 2c. Pemerintah Pusat,2,Barang & jasa,match
+R13012C_2,Bentuk PAD/PAN/bantuan : 2c. Pemerintah Pusat,3,"Uang, barang dan jasa",R13012C_2,Bentuk PAD/PAN/bantuan : 2c. Pemerintah Pusat,3,"Uang, barang dan jasa",match
+R13012C_2,Bentuk PAD/PAN/bantuan : 2c. Pemerintah Pusat,4,Tidak ada,R13012C_2,Bentuk PAD/PAN/bantuan : 2c. Pemerintah Pusat,4,Tidak ada,match
+R13012C_3,Nilai PAD/PAN/bantuan : 2c. Pemerintah Pusat,-,-,R13012C_3,Nilai PAD/PAN/bantuan : 2c. Pemerintah Pusat,-,-,match
+R13012C_4,Penggunaan : 2c. Pemerintah Pusat,1,Pembiayaan rutin,R13012C_4,Penggunaan : 2c. Pemerintah Pusat,1,Pembiayaan rutin,match
+R13012C_4,Penggunaan : 2c. Pemerintah Pusat,2,Kegiatan posyandu,R13012C_4,Penggunaan : 2c. Pemerintah Pusat,2,Kegiatan posyandu,match
+R13012C_4,Penggunaan : 2c. Pemerintah Pusat,4,Kegiatan olahraga,R13012C_4,Penggunaan : 2c. Pemerintah Pusat,4,Kegiatan olahraga,match
+R13012C_4,Penggunaan : 2c. Pemerintah Pusat,8,Pembangunan tempat ibadah,R13012C_4,Penggunaan : 2c. Pemerintah Pusat,8,Pembangunan tempat ibadah,match
+R13012C_4,Penggunaan : 2c. Pemerintah Pusat,16,Pembangunan jalan/jembatan,R13012C_4,Penggunaan : 2c. Pemerintah Pusat,16,Pembangunan jalan/jembatan,match
+R13012C_4,Penggunaan : 2c. Pemerintah Pusat,32,Pembangunan fisik lainnya,R13012C_4,Penggunaan : 2c. Pemerintah Pusat,32,Pembangunan fisik lainnya,match
+R13012C_4,Penggunaan : 2c. Pemerintah Pusat,64,Pemberdayaan ekonomi masyarakat desa,R13012C_4,Penggunaan : 2c. Pemerintah Pusat,64,Pemberdayaan ekonomi masyarakat desa,match
+R13012C_4,Penggunaan : 2c. Pemerintah Pusat,128,Lainnya,R13012C_4,Penggunaan : 2c. Pemerintah Pusat,128,Lainnya,match
+R13012D_2,Bentuk PAD/PAN/bantuan : 2d. Luar negeri,1,Uang,R13012D_2,Bentuk PAD/PAN/bantuan : 2d. Luar negeri,1,Uang,match
+R13012D_2,Bentuk PAD/PAN/bantuan : 2d. Luar negeri,2,Barang & jasa,R13012D_2,Bentuk PAD/PAN/bantuan : 2d. Luar negeri,2,Barang & jasa,match
+R13012D_2,Bentuk PAD/PAN/bantuan : 2d. Luar negeri,3,"Uang, barang dan jasa",R13012D_2,Bentuk PAD/PAN/bantuan : 2d. Luar negeri,3,"Uang, barang dan jasa",match
+R13012D_2,Bentuk PAD/PAN/bantuan : 2d. Luar negeri,4,Tidak ada,R13012D_2,Bentuk PAD/PAN/bantuan : 2d. Luar negeri,4,Tidak ada,match
+R13012D_3,Nilai PAD/PAN/bantuan : 2d. Luar negeri,-,-,R13012D_3,Nilai PAD/PAN/bantuan : 2d. Luar negeri,-,-,match
+R13012D_4,Penggunaan : 2d. Luar negeri,1,Pembiayaan rutin,R13012D_4,Penggunaan : 2d. Luar negeri,1,Pembiayaan rutin,match
+R13012D_4,Penggunaan : 2d. Luar negeri,2,Kegiatan posyandu,R13012D_4,Penggunaan : 2d. Luar negeri,2,Kegiatan posyandu,match
+R13012D_4,Penggunaan : 2d. Luar negeri,4,Kegiatan olahraga,R13012D_4,Penggunaan : 2d. Luar negeri,4,Kegiatan olahraga,match
+R13012D_4,Penggunaan : 2d. Luar negeri,8,Pembangunan tempat ibadah,R13012D_4,Penggunaan : 2d. Luar negeri,8,Pembangunan tempat ibadah,match
+R13012D_4,Penggunaan : 2d. Luar negeri,16,Pembangunan jalan/jembatan,R13012D_4,Penggunaan : 2d. Luar negeri,16,Pembangunan jalan/jembatan,match
+R13012D_4,Penggunaan : 2d. Luar negeri,32,Pembangunan fisik lainnya,R13012D_4,Penggunaan : 2d. Luar negeri,32,Pembangunan fisik lainnya,match
+R13012D_4,Penggunaan : 2d. Luar negeri,64,Pemberdayaan ekonomi masyarakat desa,R13012D_4,Penggunaan : 2d. Luar negeri,64,Pemberdayaan ekonomi masyarakat desa,match
+R13012D_4,Penggunaan : 2d. Luar negeri,128,Lainnya,R13012D_4,Penggunaan : 2d. Luar negeri,128,Lainnya,match
+R13012E_2,Bentuk PAD/PAN/bantuan : 2e. Swasta,1,Uang,R13012E_2,Bentuk PAD/PAN/bantuan : 2e. Swasta,1,Uang,match
+R13012E_2,Bentuk PAD/PAN/bantuan : 2e. Swasta,2,Barang & jasa,R13012E_2,Bentuk PAD/PAN/bantuan : 2e. Swasta,2,Barang & jasa,match
+R13012E_2,Bentuk PAD/PAN/bantuan : 2e. Swasta,3,"Uang, barang dan jasa",R13012E_2,Bentuk PAD/PAN/bantuan : 2e. Swasta,3,"Uang, barang dan jasa",match
+R13012E_2,Bentuk PAD/PAN/bantuan : 2e. Swasta,4,Tidak ada,R13012E_2,Bentuk PAD/PAN/bantuan : 2e. Swasta,4,Tidak ada,match
+R13012E_3,Nilai PAD/PAN/bantuan : 2e. Swasta,-,-,R13012E_3,Nilai PAD/PAN/bantuan : 2e. Swasta,-,-,match
+R13012E_4,Penggunaan : 2e. Swasta,1,Pembiayaan rutin,R13012E_4,Penggunaan : 2e. Swasta,1,Pembiayaan rutin,match
+R13012E_4,Penggunaan : 2e. Swasta,2,Kegiatan posyandu,R13012E_4,Penggunaan : 2e. Swasta,2,Kegiatan posyandu,match
+R13012E_4,Penggunaan : 2e. Swasta,4,Kegiatan olahraga,R13012E_4,Penggunaan : 2e. Swasta,4,Kegiatan olahraga,match
+R13012E_4,Penggunaan : 2e. Swasta,8,Pembangunan tempat ibadah,R13012E_4,Penggunaan : 2e. Swasta,8,Pembangunan tempat ibadah,match
+R13012E_4,Penggunaan : 2e. Swasta,16,Pembangunan jalan/jembatan,R13012E_4,Penggunaan : 2e. Swasta,16,Pembangunan jalan/jembatan,match
+R13012E_4,Penggunaan : 2e. Swasta,32,Pembangunan fisik lainnya,R13012E_4,Penggunaan : 2e. Swasta,32,Pembangunan fisik lainnya,match
+R13012E_4,Penggunaan : 2e. Swasta,64,Pemberdayaan ekonomi masyarakat desa,R13012E_4,Penggunaan : 2e. Swasta,64,Pemberdayaan ekonomi masyarakat desa,match
+R13012E_4,Penggunaan : 2e. Swasta,128,Lainnya,R13012E_4,Penggunaan : 2e. Swasta,128,Lainnya,match
+R13012F_2,Bentuk PAD/PAN/bantuan : 2f. Lainnya,1,Uang,R13012F_2,Bentuk PAD/PAN/bantuan : 2f. Lainnya,1,Uang,match
+R13012F_2,Bentuk PAD/PAN/bantuan : 2f. Lainnya,2,Barang & jasa,R13012F_2,Bentuk PAD/PAN/bantuan : 2f. Lainnya,2,Barang & jasa,match
+R13012F_2,Bentuk PAD/PAN/bantuan : 2f. Lainnya,3,"Uang, barang dan jasa",R13012F_2,Bentuk PAD/PAN/bantuan : 2f. Lainnya,3,"Uang, barang dan jasa",match
+R13012F_2,Bentuk PAD/PAN/bantuan : 2f. Lainnya,4,Tidak ada,R13012F_2,Bentuk PAD/PAN/bantuan : 2f. Lainnya,4,Tidak ada,match
+R13012F_3,Nilai PAD/PAN/bantuan : 2f. Lainnya,-,-,R13012F_3,Nilai PAD/PAN/bantuan : 2f. Lainnya,-,-,match
+R13012F_4,Penggunaan : 2f. Lainnya,1,Pembiayaan rutin,R13012F_4,Penggunaan : 2f. Lainnya,1,Pembiayaan rutin,match
+R13012F_4,Penggunaan : 2f. Lainnya,2,Kegiatan posyandu,R13012F_4,Penggunaan : 2f. Lainnya,2,Kegiatan posyandu,match
+R13012F_4,Penggunaan : 2f. Lainnya,4,Kegiatan olahraga,R13012F_4,Penggunaan : 2f. Lainnya,4,Kegiatan olahraga,match
+R13012F_4,Penggunaan : 2f. Lainnya,8,Pembangunan tempat ibadah,R13012F_4,Penggunaan : 2f. Lainnya,8,Pembangunan tempat ibadah,match
+R13012F_4,Penggunaan : 2f. Lainnya,16,Pembangunan jalan/jembatan,R13012F_4,Penggunaan : 2f. Lainnya,16,Pembangunan jalan/jembatan,match
+R13012F_4,Penggunaan : 2f. Lainnya,32,Pembangunan fisik lainnya,R13012F_4,Penggunaan : 2f. Lainnya,32,Pembangunan fisik lainnya,match
+R13012F_4,Penggunaan : 2f. Lainnya,64,Pemberdayaan ekonomi masyarakat desa,R13012F_4,Penggunaan : 2f. Lainnya,64,Pemberdayaan ekonomi masyarakat desa,match
+R13012F_4,Penggunaan : 2f. Lainnya,128,Lainnya,R13012F_4,Penggunaan : 2f. Lainnya,128,Lainnya,match
+R1302A_2,Program/kegiatan : a. Pelatihan keterampilan,1,Uang,R1302A_2,Program/kegiatan : a. Pelatihan keterampilan,1,Uang,match
+R1302A_2,Program/kegiatan : a. Pelatihan keterampilan,2,Barang & jasa,R1302A_2,Program/kegiatan : a. Pelatihan keterampilan,2,Barang & jasa,match
+R1302A_2,Program/kegiatan : a. Pelatihan keterampilan,3,"Uang, barang dan jasa",R1302A_2,Program/kegiatan : a. Pelatihan keterampilan,3,"Uang, barang dan jasa",match
+R1302A_2,Program/kegiatan : a. Pelatihan keterampilan,4,Tidak ada,R1302A_2,Program/kegiatan : a. Pelatihan keterampilan,4,Tidak ada,match
+R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,1,Bupati,R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,1,Bupati,match
+R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,2,Dinas Kab/Kota,R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,2,Dinas Kab/Kota,match
+R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,3,Pemerintah Provinsi,R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,3,Pemerintah Provinsi,match
+R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,4,Pemerintah Pusat,R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,4,Pemerintah Pusat,match
+R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,5,Lainnya,R1302A_3,Instansi pemberi bantuan : a. Pelatihan keterampilan,5,Lainnya,match
+R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,1,Hanya penduduk miskin,R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,1,Hanya penduduk miskin,match
+R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,2,Petani gurem,R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,2,Petani gurem,match
+R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,4,Petani (umumnya),R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,4,Petani (umumnya),match
+R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,8,Masyarakat desa/kelurahan (umumnya),R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,8,Masyarakat desa/kelurahan (umumnya),match
+R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,16,Kelompok usaha masyarakat desa/kelurahan,R1302A_4,Peserta/penerima bantuan : a. Pelatihan keterampilan,16,Kelompok usaha masyarakat desa/kelurahan,match
+R1302B_2,Program/kegiatan : b. Bantuan modal usaha nonpertanian,1,Ada,R1302B_2,Program/kegiatan : b. Bantuan modal usaha nonpertanian,1,Ada,match
+R1302B_2,Program/kegiatan : b. Bantuan modal usaha nonpertanian,2,Tidak,R1302B_2,Program/kegiatan : b. Bantuan modal usaha nonpertanian,2,Tidak,match
+R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,1,Bupati,R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,1,Bupati,match
+R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,2,Dinas Kab/Kota,R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,2,Dinas Kab/Kota,match
+R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,3,Pemerintah Provinsi,R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,3,Pemerintah Provinsi,match
+R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,4,Pemerintah Pusat,R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,4,Pemerintah Pusat,match
+R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,5,Lainnya,R1302B_3,Instansi pemberi bantuan : b. Bantuan modal usaha nonpertanian,5,Lainnya,match
+R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,1,Hanya penduduk miskin,R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,1,Hanya penduduk miskin,match
+R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,2,Petani gurem,R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,2,Petani gurem,match
+R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,4,Petani (umumnya),R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,4,Petani (umumnya),match
+R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,8,Masyarakat desa/kelurahan (umumnya),R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,8,Masyarakat desa/kelurahan (umumnya),match
+R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,16,Kelompok usaha masyarakat desa/kelurahan,R1302B_4,Peserta/penerima bantuan : b. Bantuan modal usaha nonpertanian,16,Kelompok usaha masyarakat desa/kelurahan,match
+R1302C_2,Program/kegiatan : c. Program padat karya,1,Ada,R1302C_2,Program/kegiatan : c. Program padat karya,1,Ada,match
+R1302C_2,Program/kegiatan : c. Program padat karya,2,Tidak,R1302C_2,Program/kegiatan : c. Program padat karya,2,Tidak,match
+R1302C_3,Instansi pemberi bantuan : c. Program padat karya,1,Bupati,R1302C_3,Instansi pemberi bantuan : c. Program padat karya,1,Bupati,match
+R1302C_3,Instansi pemberi bantuan : c. Program padat karya,2,Dinas Kab/Kota,R1302C_3,Instansi pemberi bantuan : c. Program padat karya,2,Dinas Kab/Kota,match
+R1302C_3,Instansi pemberi bantuan : c. Program padat karya,3,Pemerintah Provinsi,R1302C_3,Instansi pemberi bantuan : c. Program padat karya,3,Pemerintah Provinsi,match
+R1302C_3,Instansi pemberi bantuan : c. Program padat karya,4,Pemerintah Pusat,R1302C_3,Instansi pemberi bantuan : c. Program padat karya,4,Pemerintah Pusat,match
+R1302C_3,Instansi pemberi bantuan : c. Program padat karya,5,Lainnya,R1302C_3,Instansi pemberi bantuan : c. Program padat karya,5,Lainnya,match
+R1302C_4,Peserta/penerima bantuan : c. Program padat karya,1,Hanya penduduk miskin,R1302C_4,Peserta/penerima bantuan : c. Program padat karya,1,Hanya penduduk miskin,match
+R1302C_4,Peserta/penerima bantuan : c. Program padat karya,2,Petani gurem,R1302C_4,Peserta/penerima bantuan : c. Program padat karya,2,Petani gurem,match
+R1302C_4,Peserta/penerima bantuan : c. Program padat karya,4,Petani (umumnya),R1302C_4,Peserta/penerima bantuan : c. Program padat karya,4,Petani (umumnya),match
+R1302C_4,Peserta/penerima bantuan : c. Program padat karya,8,Masyarakat desa/kelurahan (umumnya),R1302C_4,Peserta/penerima bantuan : c. Program padat karya,8,Masyarakat desa/kelurahan (umumnya),match
+R1302C_4,Peserta/penerima bantuan : c. Program padat karya,16,Kelompok usaha masyarakat desa/kelurahan,R1302C_4,Peserta/penerima bantuan : c. Program padat karya,16,Kelompok usaha masyarakat desa/kelurahan,match
+R1302D_2,Program/kegiatan : d. Bantuan usaha pertanian,1,Ada,R1302D_2,Program/kegiatan : d. Bantuan usaha pertanian,1,Ada,match
+R1302D_2,Program/kegiatan : d. Bantuan usaha pertanian,2,Tidak,R1302D_2,Program/kegiatan : d. Bantuan usaha pertanian,2,Tidak,match
+R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,1,Bupati,R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,1,Bupati,match
+R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,2,Dinas Kab/Kota,R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,2,Dinas Kab/Kota,match
+R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,3,Pemerintah Provinsi,R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,3,Pemerintah Provinsi,match
+R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,4,Pemerintah Pusat,R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,4,Pemerintah Pusat,match
+R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,5,Lainnya,R1302D_3,Instansi pemberi bantuan : d. Bantuan usaha pertanian,5,Lainnya,match
+R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,1,Hanya penduduk miskin,R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,1,Hanya penduduk miskin,match
+R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,2,Petani gurem,R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,2,Petani gurem,match
+R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,4,Petani (umumnya),R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,4,Petani (umumnya),match
+R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,8,Masyarakat desa/kelurahan (umumnya),R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,8,Masyarakat desa/kelurahan (umumnya),match
+R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,16,Kelompok usaha masyarakat desa/kelurahan,R1302D_4,Peserta/penerima bantuan : d. Bantuan usaha pertanian,16,Kelompok usaha masyarakat desa/kelurahan,match
+R1302E_2,Program/kegiatan : e. Program perbaikan rumah,1,Ada,R1302E_2,Program/kegiatan : e. Program perbaikan rumah,1,Ada,match
+R1302E_2,Program/kegiatan : e. Program perbaikan rumah,2,Tidak,R1302E_2,Program/kegiatan : e. Program perbaikan rumah,2,Tidak,match
+R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,1,Bupati,R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,1,Bupati,match
+R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,2,Dinas Kab/Kota,R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,2,Dinas Kab/Kota,match
+R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,3,Pemerintah Provinsi,R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,3,Pemerintah Provinsi,match
+R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,4,Pemerintah Pusat,R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,4,Pemerintah Pusat,match
+R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,5,Lainnya,R1302E_3,Instansi pemberi bantuan : e. Program perbaikan rumah,5,Lainnya,match
+R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,1,Hanya penduduk miskin,R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,1,Hanya penduduk miskin,match
+R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,2,Petani gurem,R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,2,Petani gurem,match
+R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,4,Petani (umumnya),R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,4,Petani (umumnya),match
+R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,8,Masyarakat desa/kelurahan (umumnya),R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,8,Masyarakat desa/kelurahan (umumnya),match
+R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,16,Kelompok usaha masyarakat desa/kelurahan,R1302E_4,Peserta/penerima bantuan : e. Program perbaikan rumah,16,Kelompok usaha masyarakat desa/kelurahan,match
+R1302F_2,Program/kegiatan : f. Program rehabilitasi kampung,1,Ada,R1302F_2,Program/kegiatan : f. Program rehabilitasi kampung,1,Ada,match
+R1302F_2,Program/kegiatan : f. Program rehabilitasi kampung,2,Tidak,R1302F_2,Program/kegiatan : f. Program rehabilitasi kampung,2,Tidak,match
+R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,1,Bupati,R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,1,Bupati,match
+R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,2,Dinas Kab/Kota,R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,2,Dinas Kab/Kota,match
+R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,3,Pemerintah Provinsi,R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,3,Pemerintah Provinsi,match
+R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,4,Pemerintah Pusat,R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,4,Pemerintah Pusat,match
+R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,5,Lainnya,R1302F_3,Instansi pemberi bantuan : f. Program rehabilitasi kampung,5,Lainnya,match
+R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,1,Hanya penduduk miskin,R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,1,Hanya penduduk miskin,match
+R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,2,Petani gurem,R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,2,Petani gurem,match
+R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,4,Petani (umumnya),R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,4,Petani (umumnya),match
+R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,8,Masyarakat desa/kelurahan (umumnya),R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,8,Masyarakat desa/kelurahan (umumnya),match
+R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,16,Kelompok usaha masyarakat desa/kelurahan,R1302F_4,Peserta/penerima bantuan : f. Program rehabilitasi kampung,16,Kelompok usaha masyarakat desa/kelurahan,match
+R1302G_2,Program/kegiatan : g. Program rehabilitasi lingkungan kumuh/miskin,1,Ada,R1302G_2,Program/kegiatan : g. Program rehabilitasi lingkungan kumuh/miskin,1,Ada,match
+R1302G_2,Program/kegiatan : g. Program rehabilitasi lingkungan kumuh/miskin,2,Tidak,R1302G_2,Program/kegiatan : g. Program rehabilitasi lingkungan kumuh/miskin,2,Tidak,match
+R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,1,Bupati,R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,1,Bupati,match
+R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,2,Dinas Kab/Kota,R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,2,Dinas Kab/Kota,match
+R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,3,Pemerintah Provinsi,R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,3,Pemerintah Provinsi,match
+R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,4,Pemerintah Pusat,R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,4,Pemerintah Pusat,match
+R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,5,Lainnya,R1302G_3,Instansi pemberi bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,5,Lainnya,match
+R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,1,Hanya penduduk miskin,R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,1,Hanya penduduk miskin,match
+R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,2,Petani gurem,R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,2,Petani gurem,match
+R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,4,Petani (umumnya),R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,4,Petani (umumnya),match
+R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,8,Masyarakat desa/kelurahan (umumnya),R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,8,Masyarakat desa/kelurahan (umumnya),match
+R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,16,Kelompok usaha masyarakat desa/kelurahan,R1302G_4,Peserta/penerima bantuan : g. Program rehabilitasi lingkungan kumuh/miskin,16,Kelompok usaha masyarakat desa/kelurahan,match
+R1302H_2,Program/kegiatan : h. Lainnya,1,Ada,R1302H_2,Program/kegiatan : h. Lainnya,1,Ada,match
+R1302H_2,Program/kegiatan : h. Lainnya,2,Tidak,R1302H_2,Program/kegiatan : h. Lainnya,2,Tidak,match
+R1302H_3,Instansi pemberi bantuan : h. Lainnya,1,Bupati,R1302H_3,Instansi pemberi bantuan : h. Lainnya,1,Bupati,match
+R1302H_3,Instansi pemberi bantuan : h. Lainnya,2,Dinas Kab/Kota,R1302H_3,Instansi pemberi bantuan : h. Lainnya,2,Dinas Kab/Kota,match
+R1302H_3,Instansi pemberi bantuan : h. Lainnya,3,Pemerintah Provinsi,R1302H_3,Instansi pemberi bantuan : h. Lainnya,3,Pemerintah Provinsi,match
+R1302H_3,Instansi pemberi bantuan : h. Lainnya,4,Pemerintah Pusat,R1302H_3,Instansi pemberi bantuan : h. Lainnya,4,Pemerintah Pusat,match
+R1302H_3,Instansi pemberi bantuan : h. Lainnya,5,Lainnya,R1302H_3,Instansi pemberi bantuan : h. Lainnya,5,Lainnya,match
+R1302H_4,Peserta/penerima bantuan : h. Lainnya,1,Hanya penduduk miskin,R1302H_4,Peserta/penerima bantuan : h. Lainnya,1,Hanya penduduk miskin,match
+R1302H_4,Peserta/penerima bantuan : h. Lainnya,2,Petani gurem,R1302H_4,Peserta/penerima bantuan : h. Lainnya,2,Petani gurem,match
+R1302H_4,Peserta/penerima bantuan : h. Lainnya,4,Petani (umumnya),R1302H_4,Peserta/penerima bantuan : h. Lainnya,4,Petani (umumnya),match
+R1302H_4,Peserta/penerima bantuan : h. Lainnya,8,Masyarakat desa/kelurahan (umumnya),R1302H_4,Peserta/penerima bantuan : h. Lainnya,8,Masyarakat desa/kelurahan (umumnya),match
+R1302H_4,Peserta/penerima bantuan : h. Lainnya,16,Kelompok usaha masyarakat desa/kelurahan,R1302H_4,Peserta/penerima bantuan : h. Lainnya,16,Kelompok usaha masyarakat desa/kelurahan,match
+R1303A,a. Kerja padat karya yang diikuti oleh penduduk miskin,1,Ada,R1303A,a. Kerja padat karya yang diikuti oleh penduduk miskin,1,Ada,match
+R1303A,a. Kerja padat karya yang diikuti oleh penduduk miskin,2,Tidak,R1303A,a. Kerja padat karya yang diikuti oleh penduduk miskin,2,Tidak,match
+R1303B,b. Bantuan modal usaha,3,Ada,R1303B,b. Bantuan modal usaha,3,Ada,match
+R1303B,b. Bantuan modal usaha,4,Tidak,R1303B,b. Bantuan modal usaha,4,Tidak,match
+R1303C,c.  Bantuan bibit tanaman pertanian/Saprodi,5,Ada,R1303C,c.  Bantuan bibit tanaman pertanian/Saprodi,5,Ada,match
+R1303C,c.  Bantuan bibit tanaman pertanian/Saprodi,6,Tidak,R1303C,c.  Bantuan bibit tanaman pertanian/Saprodi,6,Tidak,match
+R1303D,d. Lainnya,7,Ada,R1303D,d. Lainnya,7,Ada,match
+R1303D,d. Lainnya,8,Tidak,R1303D,d. Lainnya,8,Tidak,match
+R1401A_2,Aparat Pemerintahan Desa/Kelurahan : a. Kepala Desa/Lurah,1,Ada,R1401A_2,Aparat Pemerintahan Desa/Kelurahan : a. Kepala Desa/Lurah,1,Ada,match
+R1401A_2,Aparat Pemerintahan Desa/Kelurahan : a. Kepala Desa/Lurah,2,Tidak,R1401A_2,Aparat Pemerintahan Desa/Kelurahan : a. Kepala Desa/Lurah,2,Tidak,match
+R1401A_3,Umur : a. Kepala Desa/Lurah,-,-,R1401A_3,Umur : a. Kepala Desa/Lurah,-,-,match
+R1401A_4,Jenis Kelamin : a. Kepala Desa/Lurah,1,Laki-laki,R1401A_4,Jenis Kelamin : a. Kepala Desa/Lurah,1,Laki-laki,match
+R1401A_4,Jenis Kelamin : a. Kepala Desa/Lurah,2,Perempuan,R1401A_4,Jenis Kelamin : a. Kepala Desa/Lurah,2,Perempuan,match
+R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,1,Tidak pernah sekolah,R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,1,Tidak pernah sekolah,match
+R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,2,Tidak Tamat SD,R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,2,Tidak Tamat SD,match
+R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,3,Tamat SD/Sederajat,R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,3,Tamat SD/Sederajat,match
+R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,4,SMP/Sederajat,R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,4,SMP/Sederajat,match
+R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,5,SMA/Sederajat,R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,5,SMA/Sederajat,match
+R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,6,Akademi/DIII,R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,6,Akademi/DIII,match
+R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,7,Perguruan Tinggi,R1401A_5,Pendidikan tertinggi yang ditamatkan : a. Kepala Desa/Lurah,7,Perguruan Tinggi,match
+R1401B_2,Aparat Pemerintahan Desa/Kelurahan : b. Sekretaris Desa/Sekretaris Kelurahan,1,Ada,R1401B_2,Aparat Pemerintahan Desa/Kelurahan : b. Sekretaris Desa/Sekretaris Kelurahan,1,Ada,match
+R1401B_2,Aparat Pemerintahan Desa/Kelurahan : b. Sekretaris Desa/Sekretaris Kelurahan,2,Tidak,R1401B_2,Aparat Pemerintahan Desa/Kelurahan : b. Sekretaris Desa/Sekretaris Kelurahan,2,Tidak,match
+R1401B_3,Umur : b. Sekretaris Desa/Sekretaris Kelurahan,-,-,R1401B_3,Umur : b. Sekretaris Desa/Sekretaris Kelurahan,-,-,match
+R1401B_4,Jenis Kelamin : b. Sekretaris Desa/Sekretaris Kelurahan,1,Laki-laki,R1401B_4,Jenis Kelamin : b. Sekretaris Desa/Sekretaris Kelurahan,1,Laki-laki,match
+R1401B_4,Jenis Kelamin : b. Sekretaris Desa/Sekretaris Kelurahan,2,Perempuan,R1401B_4,Jenis Kelamin : b. Sekretaris Desa/Sekretaris Kelurahan,2,Perempuan,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,1,Tidak pernah sekolah,R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,1,Tidak pernah sekolah,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,2,Tidak Tamat SD,R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,2,Tidak Tamat SD,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,3,Tamat SD/Sederajat,R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,3,Tamat SD/Sederajat,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,4,SMP/Sederajat,R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,4,SMP/Sederajat,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,5,SMA/Sederajat,R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,5,SMA/Sederajat,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,6,Akademi/DIII,R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,6,Akademi/DIII,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,7,Perguruan Tinggi,R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,7,Perguruan Tinggi,match
+R1401C_2,Aparat Pemerintahan Desa/Kelurahan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,1,Ada,R1401C_2,Aparat Pemerintahan Desa/Kelurahan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,1,Ada,match
+R1401C_2,Aparat Pemerintahan Desa/Kelurahan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,2,Tidak,R1401C_2,Aparat Pemerintahan Desa/Kelurahan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,2,Tidak,match
+R1401C_3,Umur : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,-,-,R1401C_3,Umur : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,-,-,match
+R1401C_4,Jenis Kelamin : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,1,Laki-laki,R1401C_4,Jenis Kelamin : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,1,Laki-laki,match
+R1401C_4,Jenis Kelamin : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,2,Perempuan,R1401C_4,Jenis Kelamin : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,2,Perempuan,match
+R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,1,Tidak pernah sekolah,R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,1,Tidak pernah sekolah,match
+R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,2,Tidak Tamat SD,R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,2,Tidak Tamat SD,match
+R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,3,Tamat SD/Sederajat,R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,3,Tamat SD/Sederajat,match
+R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,4,SMP/Sederajat,R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,4,SMP/Sederajat,match
+R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,5,SMA/Sederajat,R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,5,SMA/Sederajat,match
+R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,6,Akademi/DIII,R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,6,Akademi/DIII,match
+R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,7,Perguruan Tinggi,R1401C_5,Pendidikan tertinggi yang ditamatkan : c. Ketua Badan Perwakilan Desa/Dewan Kelurahan,7,Perguruan Tinggi,match
+R1401D_2,Aparat Pemerintahan Desa/Kelurahan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,1,Ada,R1401D_2,Aparat Pemerintahan Desa/Kelurahan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,1,Ada,match
+R1401D_2,Aparat Pemerintahan Desa/Kelurahan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,2,Tidak,R1401D_2,Aparat Pemerintahan Desa/Kelurahan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,2,Tidak,match
+R1401D_3,Umur : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,-,-,R1401D_3,Umur : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,-,-,match
+R1401D_4,Jenis Kelamin : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,1,Laki-laki,R1401D_4,Jenis Kelamin : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,1,Laki-laki,match
+R1401D_4,Jenis Kelamin : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,2,Perempuan,R1401D_4,Jenis Kelamin : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,2,Perempuan,match
+R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,1,Tidak pernah sekolah,R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,1,Tidak pernah sekolah,match
+R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,2,Tidak Tamat SD,R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,2,Tidak Tamat SD,match
+R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,3,Tamat SD/Sederajat,R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,3,Tamat SD/Sederajat,match
+R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,4,SMP/Sederajat,R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,4,SMP/Sederajat,match
+R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,5,SMA/Sederajat,R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,5,SMA/Sederajat,match
+R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,6,Akademi/DIII,R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,6,Akademi/DIII,match
+R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,7,Perguruan Tinggi,R1401D_5,Pendidikan tertinggi yang ditamatkan : d. Ketua Lembaga Pemerintahan Masyarakat Desa /Kelurahan,7,Perguruan Tinggi,match
+R01A,a. Pencatatan/registrasi penduduk,-,-,R01A,a. Pencatatan/registrasi penduduk,-,-,match
+R01B,b. Pencatatan/registrasi dilakukan secara,-,-,R01B,b. Pencatatan/registrasi dilakukan secara,-,-,match
+R02A,a. Kelahiran,-,-,R02A,a. Kelahiran,-,-,match
+R02B,b. Kematian,-,-,R02B,b. Kematian,-,-,match
+R02C,c. Kepindahan,-,-,R02C,c. Kepindahan,-,-,match
+R03A,a. Laki-laki,-,-,R03A,a. Laki-laki,-,-,match
+R03B,b. Perempuan,-,-,R03B,b. Perempuan,-,-,match
+R04A,a. Laki-laki,-,-,R04A,a. Laki-laki,-,-,match
+R04B,b. Perempuan,-,-,R04B,b. Perempuan,-,-,match
+R05A,a. Penduduk yang datang,-,-,R05A,a. Penduduk yang datang,-,-,match
+R05B,b. Penduduk yang pergi,-,-,R05B,b. Penduduk yang pergi,-,-,match
+R06A,a. Jumlah PUS,-,-,R06A,a. Jumlah PUS,-,-,match
+R06B,b. Jumlah peserta KB,-,-,R06B,b. Jumlah peserta KB,-,-,match
+R07A,a. Pelaporan penduduk dilakukan secara rutin oleh kantor desa/kelurahan ke instansi berwenang:,-,-,R07A,a. Pelaporan penduduk dilakukan secara rutin oleh kantor desa/kelurahan ke instansi berwenang:,-,-,match
+R07B,b. Pelaporan dilakukan ke,-,-,R07B,b. Pelaporan dilakukan ke,-,-,match
+R07C,c. Periode pelaporan,-,-,R07C,c. Periode pelaporan,-,-,match
+R08A,a. Penduduk liar (yang tidak diakui sebagai warga RT/RW/SLS) di desa/kelurahan ini,-,-,R08A,a. Penduduk liar (yang tidak diakui sebagai warga RT/RW/SLS) di desa/kelurahan ini,-,-,match
+R08B,b. Jumlah penduduk liar,-,-,R08B,b. Jumlah penduduk liar,-,-,match
+R09A,a. Penduduk yang tinggal di wilayah yang sulit dijangkau (hanya bisa dicapai dengan berjalan kaki/kendaraan tidak bermotor),-,-,R09A,a. Penduduk yang tinggal di wilayah yang sulit dijangkau (hanya bisa dicapai dengan berjalan kaki/kendaraan tidak bermotor),-,-,match
+R09B,b. Waktu tempuh dari kantor kecamatan/desa ke permukiman penduduk tersebut:,-,-,R09B,b. Waktu tempuh dari kantor kecamatan/desa ke permukiman penduduk tersebut:,-,-,match
+R10A,a. Permanen,-,-,R10A,a. Permanen,-,-,match
+R10B,b. Semi permanen,-,-,R10B,b. Semi permanen,-,-,match
+R10C,c. Tidak permanen,-,-,R10C,c. Tidak permanen,-,-,match
+R11A,a. Bangunan rumah toko (ruko)/rumah kantor (rukan) di desa/kelurahan,-,-,R11A,a. Bangunan rumah toko (ruko)/rumah kantor (rukan) di desa/kelurahan,-,-,match
+R11B,b. Apakah ada keluarga yang tinggal?,-,-,R11B,b. Apakah ada keluarga yang tinggal?,-,-,match
+R12A,a. Tanah negara,-,-,R12A,a. Tanah negara,-,-,match
+R12B,b. Tempat kawasan hijau,-,-,R12B,b. Tempat kawasan hijau,-,-,match
+R12C,c. Tanah milik perorangan/kelompok usaha,-,-,R12C,c. Tanah milik perorangan/kelompok usaha,-,-,match
+R13,Sertifikasi sebagian besar lahan tempat tinggal penduduk,-,-,R13,Sertifikasi sebagian besar lahan tempat tinggal penduduk,-,-,match
+R14A,a. Pangkalan/agen minyak tanah,-,-,R14A,a. Pangkalan/agen minyak tanah,-,-,match
+R14B,b. Penjual Gas LPG di Desa/Kelurahan,-,-,R14B,b. Penjual Gas LPG di Desa/Kelurahan,-,-,match
