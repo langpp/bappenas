@@ -1,0 +1,70 @@
+CODE_A,TITLE_A,SUBCODE_A,SUBTITLE_A,CODE_B,TITLE_B,SUBCODE_B,SUBTITLE_B,ACTION
+R101,Provinsi,-,-,R101,Kode Provinsi,-,-,match
+R101N,Nama provinsi,-,-,R101N,Nama Provinsi,-,-,match
+R102,Kabupaten/Kota,-,-,R102,Kode Kabupaten/Kota,-,-,match
+R102N,Nama kabupaten/kota,-,-,R102N,Nama Kabupaten/Kota,-,-,match
+R103,Kecamatan,-,-,R103,Kode Kecamatan,-,-,match
+R103N,Nama kecamatan,-,-,R103N,Nama Kecamatan,-,-,match
+R104,Desa/Kelurahan/Nagari,-,-,R104,Kode Desa/Kelurahan,-,-,match
+R301,Status Pemerintahan,1,Desa,R301,Status pemerintahan,1,Desa,match
+R301,Status Pemerintahan,2,Kelurahan,R301,Status pemerintahan,2,Kelurahan,match
+R401A,Jumlah penduduk laki-laki,-,-,R401A,Jumlah penduduk laki-laki pada Januari 2011,-,-,match
+R401B,Jumlah penduduk perempuan,-,-,R401B,Jumlah penduduk perempuan pada Januari 2011,-,-,match
+R403,Komoditi sumber penghasilan utama penduduk,1,Padi,R403B,"Jenis komoditi yang dihasilkan, jika sumber penghasilan utama pertanian",1,Padi,match
+R501A,Keluarga pengguna listrik,-,-,R501A,Keluarga pengguna PLN,-,-,match
+R501B2,Jumlah keluarga pengguna listrik Non-PLN,-,-,R501B,Keluarga pengguna Non-PLN,-,-,match
+R502A,Penerangan jalan utama desa/kelurahan,1,Ada,R502A,Penerangan di jalan utama Desa,1,Ada,match
+R502B,Jenis penerangan,1,Listrik diusahakan oleh pemerintah,R502B,Jenis penerangan di jalan utama Desa,1,Listrik diusahakan oleh pemerintah,match
+R502B,Jenis penerangan,2,Listrik nonpemerintah,R502B,Jenis penerangan di jalan utama Desa,2,Listrik non pemerintah,match
+R502B,Jenis penerangan,3,Nonlistrik,R502B,Jenis penerangan di jalan utama Desa,3,Non listrik,match
+R503,Bahan bakar untuk memasak,1,Gas kota/LPG,R503,Bahan bakar yang digunakan penduduk,1,Gas kota,match
+R506B1,Mandi/cuci,2,Tidak,R506B1K2,Apakah sungai digunakan untuk mandi/cuci?,2,Tidak,match
+R507B2,"Jika ada, jumlah bangunan rumah",-,-,R509B2,Jumlah bangunan rumah di bawah SUTET,-,-,match
+R509B2,"Jika ada, jumlah bangunan rumah",-,-,R509B2,Jumlah bangunan rumah di bawah SUTET,-,-,match
+R510C_4,Pengaduan ke Kades/Lurah : c. Udara,1,Ada,R511CK4,Pengaduan masyarakat ke aparat desa,1,Ada,match
+R601C_2,Jumlah Sekolah SMP/sederajat Negeri,-,-,R701CK2,Jumlah SMP/Sederajat Negeri,-,-,match
+R601C_3,Jumlah Sekolah SMP/sederajat Swasta,-,-,R701CK3,Jumlah SMP/Sederajat Swasta,-,-,match
+R601D_2,Jumlah Sekolah SMU/sederajat Negeri,-,-,R701DK2,Jumlah SMU/Sederajat Negeri,-,-,match
+R601D_3,Jumlah Sekolah SMU/sederajat Swasta,-,-,R701DK3,Jumlah SMU/Sederajat Swasta,-,-,match
+R601E_2,Jumlah Sekolah SMK/sederajat Negeri,-,-,R701EK2,Jumlah SMK/Sederajat Negeri,-,-,match
+R601E_3,Jumlah Sekolah SMK/sederajat Swasta,-,-,R701EK3,Jumlah SMK/Sederajat Swasta,-,-,match
+R601F_2,Jumlah Sekolah Akademi/Perguruan Tinggi yang sederajat Negeri,-,-,R701FK2,Jumlah Akademi/Perguruan Tinggi Negeri,-,-,match
+R601F_3,Jumlah Sekolah Akademi/Perguruan Tinggi yang sederajat Swasta,-,-,R701FK3,Jumlah Akademi/Perguruan Tinggi Swasta,-,-,match
+R601G_2,Jumlah Sekolah Sekolah Luar Biasa Negeri,-,-,R701GK2,Jumlah Sekolah Luar Biasa (SLB) Negeri,-,-,match
+R601G_3,Jumlah Sekolah Sekolah Luar Biasa Swasta,-,-,R701GK3,Jumlah Sekolah Luar Biasa (SLB) Swasta,-,-,match
+R604C_2,Sarana Kesehatan : c. Poliklinik/Balai pengobatan,1,Ada,R704CK2,Apakah ada poliklinik/balai pengobatan?,1,Ada,match
+R604D_2,Sarana Kesehatan : d. Puskesmas,1,Ada,R704DK2,Apakah ada Puskesmas?,1,Ada,match
+R604E_2,Sarana Kesehatan : e. Puskesmas pembantu,1,Ada,R704EK2,Apakah ada Puskesmas Pembantu?,1,Ada,match
+R604F_2,Sarana Kesehatan : f. Tempat praktek dokter,1,Ada,R704FK2,Apakah ada tempat praktek dokter?,1,Ada,match
+R604G_2,Sarana Kesehatan : g. Tempat praktek bidan,1,Ada,R704GK2,Apakah ada tempat praktek bidan?,1,Ada,match
+R604H_2,Sarana Kesehatan : h. Poskesdes,1,Ada,R704HK2,Apakah ada Poskesdes?,1,Ada,match
+R604I_2,Sarana Kesehatan : i. Polindes,1,Ada,R704IK2,Apakah ada Polindes?,1,Ada,match
+R705E_3,"Jika ada, jumlah (orang) : e. Tuna Daksa (Cacat Tubuh)",-,-,R805E,Jumlah penyandang tunadaksa (cacat tubuh),-,-,match
+R705I_3,"Jika ada, jumlah (orang) : i. Cacat ganda (Fisik-Mental)",-,-,R805I,Jumlah penyandang cacat ganda (cacat fisik-mental),-,-,match
+R801A,a. Gedung bioskop,1,Ada,R901A,Apakah ada gedung bioskop?,1,Ada,match
+R801A,a. Gedung bioskop,2,Tidak,R901A,Apakah ada gedung bioskop?,2,Tidak,match
+R801B,b. Jarak ke gedung bioskop terdekat,-,-,R901B,"Jika tidak ada gedung bioskop, jarak ke gedung bioskop terdekat",-,-,match
+R901B1,b1. Jenis permukaan jalan yang terluas,1,Aspal/Beton,R1001B1,Jenis permukaan jalan terluas,1,Aspal/beton,match
+R901B1,b1. Jenis permukaan jalan yang terluas,2,"Diperkeras (kerikil, batu, dsb)",R1001B1,Jenis permukaan jalan terluas,2,"Diperkeras (kerikil, batu, dsb)",match
+R901B1,b1. Jenis permukaan jalan yang terluas,3,Tanah,R1001B1,Jenis permukaan jalan terluas,3,Tanah,match
+R1102A,a. Industri dari kulit,-,-,R1202A,Jumlah industri dari kulit,-,-,match
+R1102B,b. Industri dari kayu,-,-,R1202B,Jumlah industri dari kayu,-,-,match
+R1102D,d. Industri anyaman,-,-,R1202D,Jumlah industri anyaman,-,-,match
+R1102E,e. Industri gerabah/keramik,-,-,R1202E,Jumlah industri gerabah/keramik/batu,-,-,match
+R1102F,f. Industri dari kain/tenun,-,-,R1202F,Jumlah industri dari kain/tenun,-,-,match
+R1102G,g. Industri makanan dan minuman,-,-,R1202G,Jumlah industri makanan dan minuman,-,-,match
+R1102H,h. Lainnya,-,-,R1202H,Jumlah industri lainnya,-,-,match
+R1103A,a. Kelompok pertokoan:,1,Ada,R1203A,Apakah ada kelompok pertokoan?,1,Ada,match
+R1107,Restoran/rumah makan,-,-,R1210,Jumlah restoran/rumah makan,-,-,match
+R1110,Hotel,-,-,R1211,Jumlah hotel,-,-,match
+R1203A07_2,Jenis Kejahatan : 07. Penyalahgunaan narkoba,1,Ada,R130307K2,Apakah ada penyalahgunaan/peredaran narkoba?,1,Ada,match
+R1401B_3,Umur : b. Sekretaris Desa/Sekretaris Kelurahan,-,-,R1501BK3,Umur Sekretaris Desa (Sekretaris Kelurahan),-,-,match
+R1401B_4,Jenis Kelamin : b. Sekretaris Desa/Sekretaris Kelurahan,1,Laki-laki,R1501BK4,Jenis kelamin Sekretaris Desa (Sekretaris Kelurahan),1,Laki-laki,match
+R1401B_4,Jenis Kelamin : b. Sekretaris Desa/Sekretaris Kelurahan,2,Perempuan,R1501BK4,Jenis kelamin Sekretaris Desa (Sekretaris Kelurahan),2,Perempuan,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,1,Tidak pernah sekolah,R1501BK5,Pendidikan tertinggi yang ditamatkan Sekretaris Desa (Sekretaris Kelurahan),1,Tidak pernah sekolah,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,3,Tamat SD/Sederajat,R1501BK5,Pendidikan tertinggi yang ditamatkan Sekretaris Desa (Sekretaris Kelurahan),3,Tamat SD/Sederajat,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,4,SMP/Sederajat,R1501BK5,Pendidikan tertinggi yang ditamatkan Sekretaris Desa (Sekretaris Kelurahan),4,SMP/Sederajat,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,5,SMA/Sederajat,R1501BK5,Pendidikan tertinggi yang ditamatkan Sekretaris Desa (Sekretaris Kelurahan),5,SMU/Sederajat,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,6,Akademi/DIII,R1501BK5,Pendidikan tertinggi yang ditamatkan Sekretaris Desa (Sekretaris Kelurahan),6,Akademi/DIII,match
+R1401B_5,Pendidikan tertinggi yang ditamatkan : b. Sekretaris Desa/Sekretaris Kelurahan,7,Perguruan Tinggi,R1501BK5,Pendidikan tertinggi yang ditamatkan Sekretaris Desa (Sekretaris Kelurahan),7,Perguruan Tinggi,match
+R02A,a. Kelahiran,-,-,R302A,Letak Desa/Kelurahan,-,-,match
